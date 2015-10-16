@@ -1,2 +1,3 @@
-# gt6db
-Passa a base de dados em csv do GT6 para o banco mongodb.
+# Forza 6
+
+Passa a base de dados em csv de carros do Forza 6 para o banco mongodb.
