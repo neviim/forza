@@ -1,0 +1,679 @@
+year,make,model,class,pi,drive type,speed,handling,acceleration,launch,braking,average,country,car value,engine position,notes
+1980,Abarth,131 Abarth ,E,204,RWD,"3,0","4,4","5,3","6,1","4,4","4,6",Italy,35.000 CR,Front,
+2010,Abarth,500 esseesse,D,312,FWD,"3,8","4,0","5,7","6,1","3,9","4,7",Italy,20.000 CR,Front,
+2008,Acura,#15 Lowe's Fernandez ARX-01b,R1,954,RWD,"8,1","9,8","9,7","8,5","9,8","9,2",United States,2.000.000 CR,Mid,
+2008,Acura,#26 Andretti-Green Racing ARX-01b,R1,954,RWD,"8,1","9,8","9,7","8,5","9,8","9,2",United States,2.000.000 CR,Mid,
+2008,Acura,#66 de Ferran Motorsports ARX-01b,R1,954,RWD,"8,1","9,8","9,7","8,5","9,8","9,2",United States,2.000.000 CR,Mid,
+2009,Acura,#66 de Ferran Motorsports ARX-02a,R1,990,RWD,"9,2","10,0","9,5","8,2","10,0","9,4",United States,2.500.000 CR,Mid,
+2009,Acura,#66 de Ferran Motorsports Jim Hall ARX-02a,R1,989,RWD,"9,2","10,0","9,5","8,2","10,0","9,4",United States,2.500.000 CR,Mid,
+2001,Acura,Integra Type-R,C,388,FWD,"5,0","4,7","6,0","6,3","4,6","5,3",United States,12.000 CR,Front,
+1997,Acura,NSX,B,471,RWD,"6,6","5,2","7,0","7,2","5,1","6,2",United States,38.000 CR,Mid,
+2005,Acura,NSX,B,476,RWD,"7,0","5,2","7,0","7,1","5,1","6,3",United States,64.000 CR,Mid,
+2002,Acura,RSX Type-S,D,342,FWD,"5,1","4,4","5,9","6,1","4,3","5,2",United States,10.000 CR,Front,
+2010,Acura,TSX V6,C,375,FWD,"6,8","4,8","5,7","5,6","4,5","5,5",United States,21.000 CR,Front,
+1992,Alfa Romeo,155 Q4 ,D,345,AWD,"4,7","4,4","5,8","6,5","4,3","5,1",Italy,7.000 CR,Front,February ALMS Pack
+1968,Alfa Romeo,33 Stradale,A,509,RWD,"6,5","4,9","8,3","8,1","4,8","6,5",Italy,"3,000,000 CR",Mid,September Pennzoil Car Pack
+2007,Alfa Romeo,8C Competizione,A,562,RWD,"7,9","5,4","7,8","7,6","5,3","6,8",Italy,280.000 CR,Front,
+2009,Alfa Romeo,Brera Italia Independent,D,347,AWD,"4,7","4,7","5,3","5,8","4,6","5,0",Italy,32.000 CR,Front,
+1965,Alfa Romeo,Giulia Sprint GTA Stradale,E,208,RWD,"3,0","3,7","6,1","6,4","3,7","4,6",Italy,60.000 CR,Front,
+2011,Alfa Romeo,Giulietta Quadrifoglio Verde,C,409,FWD,"5,1","4,8","6,1","6,2","4,7","5,4",Italy,36.000 CR,Front,Pre-order Exclusive
+1986,Alfa Romeo,GTV-6,F,185,RWD,"3,7","4,1","4,8","5,1","4,1","4,4",Italy,9.000 CR,Front,March Pirelli Car Pack
+2008,Alfa Romeo,MiTo,D,292,FWD,"3,8","4,3","5,3","5,7","4,1","4,7",Italy,20.000 CR,Front,
+1970,Alfa Romeo,Montreal,E,229,RWD,"4,0","4,0","5,4","6,0","4,0","4,7",Italy,27.000 CR,Front,January Jalopnik Pack
+1986,Alfa Romeo,Spider Quadrifoglio Verde,F,145,RWD,"3,1","4,2","4,0","4,0","4,0","3,9",Italy,5.000 CR,Front,December IGN Pack
+1973,AMC,Gremlin X,F,161,RWD,"3,0","3,7","4,9","5,7","3,8","4,2",United States,5.000 CR,Front,July Car Pack
+1971,AMC,Javelin-AMX,D,355,RWD,"3,0","3,8","7,0","6,4","3,8","4,8",United States,20.000 CR,Front,
+1977,AMC,Pacer X,F,104,RWD,"3,0","3,7","3,7","4,2","3,7","3,7",United States,5.000 CR,Front,May TopGear Car Pack
+2012,Ascari,KZ1R,S,626,RWD,"8,8","6,0","8,4","7,9","5,9","7,4",United Kingdom,350.000 CR,Mid,July Car Pack
+2554,Asklon,M12 FAV Warthog,S,669,AWD,"6,4","4,9","9,6","9,7","5,5","7,2",United States,343.000 CR,Front,Autovista
+2009,Aston Martin,#007 Aston Martin Lola,R1,989,RWD,"9,2","9,9","9,8","8,7","9,8","9,5",United Kingdom,2.500.000 CR,Mid,
+2006,Aston Martin,#007 Aston Martin Racing DBR9,R2,825,RWD,"7,2","8,2","9,1","7,9","8,3","8,2",United Kingdom,1.100.000 CR,Front,
+2011,Aston Martin,#009 Aston Martin Racing AMR One,R1,976,RWD,"8,9","10,0","9,7","8,5","9,9","9,4",United Kingdom,2.500.000 CR,Mid,April Alpinestars Pack
+2008,Aston Martin,#009 Aston Martin Racing DBR9,R2,825,RWD,"7,2","8,2","9,1","7,9","8,3","8,2",United Kingdom,1.100.000 CR,Front,
+2011,Aston Martin,#6 Muscle Milk Lola,R1,989,RWD,"9,2","9,9","9,8","8,7","9,8","9,5",United Kingdom,2.500.000 CR,Mid,
+2011,Aston Martin,Cygnet,F,157,FWD,"3,0","4,4","3,6","3,8","4,3","3,8",United Kingdom,45.000 CR,Front,Meguiar’s Car Pack
+1960,Aston Martin,DB4 GT Zagato,C,354,RWD,"6,0","4,1","6,7","4,7","4,0","5,1",United Kingdom,"2,500,000 CR",Front,September Pennzoil Car Pack
+1964,Aston Martin,DB5 Vantage,D,340,RWD,"4,9","4,2","6,4","6,7","4,1","5,2",United Kingdom,450.000 CR,Front,
+2003,Aston Martin,DB7 Zagato,A,509,RWD,"8,1","5,0","7,6","7,1","4,9","6,5",United Kingdom,250.000 CR,Front,August Playseat Car Pack
+2005,Aston Martin,DB9 Coupe,A,526,RWD,"7,4","5,5","7,1","7,5","5,4","6,6",United Kingdom,130.000 CR,Front,
+1958,Aston Martin,DBR1,C,418,RWD,"6,9","4,1","7,2","5,6","3,9","5,5",United Kingdom,6.000.000 CR,Front,
+2008,Aston Martin,DBS,A,545,RWD,"8,4","5,4","7,7","7,2","5,4","6,8",United Kingdom,250.000 CR,Front,
+2010,Aston Martin,One-77,S,673,RWD,"9,8","5,9","8,7","7,8","5,8","7,6",United Kingdom,1.800.000 CR,Front,
+2010,Aston Martin,Rapide,A,517,RWD,"8,6","5,2","7,0","7,2","5,1","6,6",United Kingdom,200.000 CR,Front,
+2001,Aston Martin,V12 Vanquish,A,503,RWD,"7,9","5,1","7,2","6,3","5,0","6,3",United Kingdom,90.000 CR,Front,
+2010,Aston Martin,V12 Vantage,A,561,RWD,"8,2","5,7","7,7","7,5","5,6","6,9",United Kingdom,270.000 CR,Front,
+2011,Aston Martin,V12 Zagato (Villa d'Este),S,617,RWD,"7,8","6,3","8,1","7,7","6,2","7,2",United Kingdom,520.000 CR,Front,March Pirelli Car Pack
+1977,Aston Martin,V8 Vantage,C,408,RWD,"6,2","4,3","6,9","7,0","4,3","5,7",United Kingdom,35.000 CR,Front,
+1998,Aston Martin,V8 Vantage V600,A,514,RWD,"8,9","4,8","7,7","6,8","4,8","6,6",United Kingdom,180.000 CR,Front,July Car Pack
+2012,Aston Martin,Virage,A,535,RWD,"8,7","5,4","7,2","7,3","5,3","6,8",United Kingdom,200.000 CR,Front,November Speed Pack
+2011,Audi,#02 Audi A4 Touring Car,R2,833,RWD,"6,9","8,7","9,1","7,9","8,8","8,3",Germany,1.200.000 CR,Front,
+2011,Audi,#03 Audi A4 Touring Car,R2,833,RWD,"6,9","8,7","9,1","7,9","8,8","8,3",Germany,1.200.000 CR,Front,
+2011,Audi,#04 Audi A4 Touring Car,R2,833,RWD,"6,9","8,7","9,1","7,9","8,8","8,3",Germany,1.200.000 CR,Front,
+2011,Audi,#05 Audi A4 Touring Car,R2,833,RWD,"6,9","8,7","9,1","7,9","8,8","8,3",Germany,1.200.000 CR,Front,
+2011,Audi,#06 Audi A4 Touring Car,R2,833,RWD,"6,9","8,7","9,1","7,9","8,8","8,3",Germany,1.200.000 CR,Front,
+2008,Audi,#2 Audi Sport North America R10 TDI,R1,991,RWD,"9,2","9,8","9,9","8,9","9,8","9,5",Germany,2.500.000 CR,Mid,
+2011,Audi,#2 Audi Sport North America R18 TDI ,R1,986,RWD,"8,9","10,0","9,7","8,6","9,9","9,4",Germany,2.500.000 CR,Mid,February ALMS Pack
+2006,Audi,#2 Audi Sport North America R8,R1,981,RWD,"8,9","9,9","9,8","8,6","9,8","9,4",Germany,2.200.000 CR,Mid,
+1986,Audi,#2 Audi Sport quattro S1 ,R3,730,AWD,"5,9","6,9","9,2","9,6","7,0","7,7",Germany,900.000 CR,Front,February ALMS Pack
+2009,Audi,#2 Audi Sport Team Joest R15 TDI,R1,995,RWD,"9,3","9,8","9,8","8,7","9,7","9,5",Germany,2.500.000 CR,Mid,
+2011,Audi,#2 Audi Sport Team Joest R15++ TDI,R1,981,RWD,"9,3","9,8","9,7","8,6","9,7","9,4",Germany,2.500.000 CR,Mid,November Speed Pack
+2011,Audi,#4 Forza Motorsport R10 TDI,R1,991,RWD,"9,2","9,8","9,9","8,9","9,8","9,5",Germany,2.500.000 CR,Mid,
+2004,Audi,#8 Audi ABT TT-R,R2,827,RWD,"6,9","8,7","9,0","7,9","8,7","8,3",Germany,1.200.000 CR,Front,
+2009,Audi,Q7 V12 TDI,C,401,AWD,"6,3","3,6","6,3","7,3","3,9","5,5",Germany,100.000 CR,Front,
+2008,Audi,R8 4.2 FSI,A,590,AWD,"8,5","5,6","7,6","8,8","5,5","7,2",Germany,120.000 CR,Mid,
+2010,Audi,R8 5.2 FSI,S,639,AWD,"8,9","5,7","8,4","9,1","5,7","7,6",Germany,150.000 CR,Mid,
+2009,Audi,R8 LMS,R3,744,RWD,"7,7","7,4","8,8","8,5","7,3","8,0",Germany,900.000 CR,Mid,
+2006,Audi,RS 4,A,560,AWD,"7,7","5,2","7,4","8,4","5,1","6,8",Germany,42.000 CR,Front,
+2011,Audi,RS 5,A,552,AWD,"7,3","5,2","7,1","8,2","5,3","6,6",Germany,105.000 CR,Front,January Jalopnik Pack
+2003,Audi,RS 6,B,496,AWD,"7,1","4,8","6,8","7,2","4,8","6,2",Germany,28.000 CR,Front,
+2009,Audi,RS 6,A,566,AWD,"8,9","5,2","7,2","8,5","5,2","7,0",Germany,140.000 CR,Front,
+1995,Audi,RS2 Avant,B,446,AWD,"5,9","4,8","6,3","7,1","4,7","5,8",Germany,24.000 CR,Front,
+2011,Audi,RS3 Sportback,B,482,AWD,"6,3","4,7","6,8","7,9","4,6","6,1",Germany,60.000 CR,Front,November Speed Pack
+2000,Audi,S4,C,415,AWD,"5,5","4,7","5,9","6,8","4,6","5,5",Germany,12.000 CR,Front,
+2004,Audi,S4,B,459,AWD,"7,1","4,7","6,5","7,5","4,6","6,1",Germany,18.000 CR,Front,
+2010,Audi,S4,A,509,AWD,"7,3","5,2","6,7","7,6","5,1","6,4",Germany,46.000 CR,Front,
+2007,Audi,S5,A,502,AWD,"7,2","5,1","6,7","7,7","5,0","6,3",Germany,42.000 CR,Front,
+1983,Audi,Sport Quattro,B,462,AWD,"5,4","4,5","6,7","7,8","4,4","5,8",Germany,120.000 CR,Front,
+2004,Audi,TT Coupe 3.2 quattro,C,421,AWD,"5,5","5,1","5,7","6,4","5,0","5,6",Germany,16.000 CR,Front,
+2007,Audi,TT Coupe S-Line,B,467,AWD,"5,7","5,2","6,3","7,1","5,1","5,9",Germany,32.000 CR,Front,
+2010,Audi,TT-RS Coupe,A,533,AWD,"7,1","5,2","7,1","8,2","5,0","6,5",Germany,48.000 CR,Front,
+1965,Austin-Healey,3000 MkIII,F,173,RWD,"3,3","3,9","4,6","5,0","3,9","4,2",United Kingdom,50.000 CR,Front,May TopGear Car Pack
+1958,Austin-Healey,Sprite MKI,F,100,RWD,"3,0","3,7","3,2","3,7","3,6","3,4",United Kingdom,"18,000 CR",Front,September Pennzoil Car Pack
+2003,Bentley,#7 Team Bentley Speed 8,R1,971,RWD,"9,6","9,5","9,6","8,4","9,5","9,3",United Kingdom,2.200.000 CR,Mid,
+1931,Bentley,8 Litre,E,235,RWD,"3,0","3,9","4,9","4,9","3,8","4,1",United Kingdom,1.000.000 CR,Front,Autovista
+2004,Bentley,Continental GT,A,501,AWD,"8,4","4,6","6,8","7,9","4,5","6,4",United Kingdom,190.000 CR,Front,
+2010,Bentley,Continental Supersports,A,567,AWD,"9,9","4,8","7,7","9,1","4,8","7,3",United Kingdom,250.000 CR,Front,
+2011,Bentley,Platinum Motorsports Continental GT,A,545,AWD,"9,3","4,7","7,4","8,6","4,7","6,9",United Kingdom,550.000 CR,Front,February ALMS Pack
+2010,Bertone,Mantide,S,645,RWD,"10,0","6,0","8,5","7,6","5,8","7,6",Italy,1.000.000 CR,Front,
+1959,BMW,507,F,189,RWD,"3,5","3,7","5,2","5,7","3,7","4,4",Germany,415.000 CR,Front,Meguiar’s Car Pack
+1999,BMW,#15 V12 LMR,R1,971,RWD,"9,1","9,9","9,8","8,6","9,8","9,4",Germany,2.200.000 CR,Mid,
+2005,BMW,#2 Team BMW Motorsport M3-GTR,R3,735,RWD,"6,9","7,5","8,9","7,8","7,5","7,7",Germany,900.000 CR,Front,
+2001,BMW,#6 Prototype Technology Group M3 GTR,R3,735,RWD,"6,9","7,5","8,9","7,8","7,5","7,7",Germany,900.000 CR,Front,
+2010,BMW,#79 Jeff Koons BMW M3 GT2 Art Car,R3,756,RWD,"6,9","7,7","8,9","7,9","7,7","7,8",Germany,1.000.000 CR,Front,
+2009,BMW,#92 Rahal Letterman Racing M3 GT2,R3,756,RWD,"6,9","7,7","8,9","7,9","7,7","7,8",Germany,1.000.000 CR,Front,
+2009,BMW,135i Coupe,B,487,RWD,"6,3","4,9","6,9","7,2","4,8","6,0",Germany,36.000 CR,Front,
+2011,BMW,1-Series M Coupe,B,454,RWD,"6,5","5,1","7,2","7,3","5,0","6,2",Germany,43.000 CR,Front,Pre-order Exclusive
+1973,BMW,2002 Turbo,E,268,RWD,"4,0","4,1","6,1","5,9","4,1","4,8",Germany,28.000 CR,Front,
+1971,BMW,3.0 CSL,E,255,RWD,"3,6","4,2","5,8","6,0","4,2","4,7",Germany,120.000 CR,Front,
+1995,BMW,850CSi,C,423,RWD,"7,5","4,7","6,5","6,8","4,6","6,0",Germany,35.000 CR,Front,March Pirelli Car Pack
+1981,BMW,M1,B,451,RWD,"5,5","5,2","6,9","6,6","5,1","5,8",Germany,150.000 CR,Mid,
+1981,BMW,M1 BMW Design Art Car,B,451,RWD,"5,5","5,2","6,9","6,6","5,1","5,8",Germany,150.000 CR,Mid,BMW Art Car Pack
+1991,BMW,M3 E30,C,357,RWD,"5,1","4,8","6,2","6,6","4,7","5,5",Germany,16.000 CR,Front,
+1997,BMW,M3 E36,B,468,RWD,"7,0","4,9","6,9","7,2","4,9","6,2",Germany,10.000 CR,Front,
+2005,BMW,M3 E46,B,480,RWD,"6,8","5,1","7,0","7,3","5,0","6,2",Germany,30.000 CR,Front,
+2008,BMW,M3 E92,A,508,RWD,"7,7","5,1","7,4","7,2","5,1","6,5",Germany,52.000 CR,Front,
+2008,BMW,M3 E92 BMW Design Art Car,A,508,RWD,"7,7","5,1","7,4","7,2","5,1","6,5",Germany,52.000 CR,Front,BMW Art Car Pack
+2002,BMW,M3-GTR,A,530,RWD,"7,1","5,4","7,7","7,3","5,3","6,5",Germany,120.000 CR,Front,Unicorn
+1995,BMW,M5,C,417,RWD,"6,8","4,8","6,3","7,0","4,7","5,9",Germany,14.000 CR,Front,April Alpinestars Pack
+1988,BMW,M5 E28,C,367,RWD,"5,4","4,7","6,1","6,6","4,7","5,5",Germany,19.000 CR,Front,
+2003,BMW,M5 E39,B,482,RWD,"8,0","4,8","7,3","6,9","4,7","6,4",Germany,26.000 CR,Front,
+2009,BMW,M5 E60,A,509,RWD,"7,6","5,0","7,4","7,3","5,0","6,5",Germany,84.000 CR,Front,
+2012,BMW,M5 F10,A,532,RWD,"8,1","5,0","7,6","7,0","5,0","6,6",Germany,90.000 CR,Front,BMW M5 Fan Pack
+2012,BMW,M5 F10 BMW Design Art Car,A,532,RWD,"8,1","5,0","7,6","7,0","5,0","6,6",Germany,90.000 CR,Front,BMW Art Car Pack
+2010,BMW,M6 Coupe,A,509,RWD,"8,0","5,0","7,4","7,1","5,0","6,5",Germany,95.000 CR,Front,
+2010,BMW,M6 Coupe Design Art Car,A,509,RWD,"8,0","5,0","7,4","7,1","5,0","6,5",Germany,95.000 CR,Front,BMW Art Car Pack
+1986,BMW,M635CSI,C,373,RWD,"5,3","4,9","5,9","6,5","4,9","5,5",Germany,21.000 CR,Front,
+2011,BMW,X5 M,A,508,AWD,"7,0","4,3","7,1","8,3","4,5","6,2",Germany,82.000 CR,Front,
+2010,BMW,X6 M,A,506,AWD,"7,2","4,3","7,0","8,2","4,5","6,2",Germany,85.000 CR,Front,
+2002,BMW,Z3 M Coupe,B,478,RWD,"6,2","5,0","7,2","7,3","5,0","6,1",Germany,15.000 CR,Front,
+2010,BMW,Z4 GT3,R3,721,RWD,"5,8","7,6","8,7","7,9","7,6","7,5",Germany,900.000 CR,Front,
+2008,BMW,Z4 M Coupe,B,492,RWD,"6,7","5,2","7,2","7,3","5,1","6,3",Germany,46.000 CR,Front,
+2008,BMW,Z4 M Coupe BMW Design Art Car,B,492,RWD,"6,7","5,2","7,2","7,3","5,1","6,3",Germany,46.000 CR,Front,BMW Art Car Pack
+2011,BMW,Z4 sDrive 3.5is,B,498,RWD,"7,1","5,1","7,2","7,4","4,9","6,3",Germany,52.000 CR,Front,
+2000,BMW,Z8,B,477,RWD,"6,5","4,8","7,3","7,3","4,8","6,1",Germany,125.000 CR,Front,
+1992,Bugatti,EB110 SS,S,666,AWD,"9,5","5,9","8,7","9,2","5,8","7,8",France,300.000 CR,Mid,
+2009,Bugatti,Veyron 16.4,R3,756,AWD,"10,0","5,9","9,6","9,7","5,9","8,2",France,1.400.000 CR,Mid,
+2011,Bugatti,Veyron Super Sport,R2,816,AWD,"10,0","6,3","10,0","10,0","6,2","8,5",France,2.200.000 CR,Mid,Limited Collectors Edition Exclusive
+1970,Buick,GSX,D,301,RWD,"5,1","3,5","6,5","5,9","3,5","4,9",United States,77.000 CR,Front,Muscle Car Pack
+1987,Buick,Regal GNX,C,403,RWD,"5,4","4,5","6,7","6,6","4,5","5,5",United States,60.000 CR,Front,
+2002,Cadillac,#6 Team Cadillac Northstar LMP-02,R1,975,RWD,"9,1","9,8","9,8","8,7","9,8","9,4",United States,2.200.000 CR,Mid,
+2004,Cadillac,CTS-V,B,462,RWD,"7,0","4,8","7,3","6,9","4,9","6,2",United States,32.000 CR,Front,
+2009,Cadillac,CTS-V,A,517,RWD,"8,0","4,9","7,7","7,0","5,0","6,5",United States,58.000 CR,Front,
+2011,Cadillac,CTS-V Coupe,A,528,RWD,"8,5","5,0","7,9","7,2","5,0","6,7",United States,58.000 CR,Front,
+1959,Cadillac,Eldorado Biarritz Convertible,F,182,RWD,"3,6","3,5","5,0","5,7","3,7","4,3",United States,180.000 CR,Front,April Alpinestars Pack
+2011,Chevrolet,#04 Monte Carlo SS Stock Car,R3,730,RWD,"9,2","7,2","8,6","7,6","7,1","7,9",United States,900.000 CR,Front,
+2004,Chevrolet,#3 Corvette Racing C5.R,R2,815,RWD,"7,3","8,3","8,8","7,4","8,4","8,0",United States,1.100.000 CR,Front,
+2006,Chevrolet,#4 Corvette Racing C6.R,R2,823,RWD,"7,4","8,1","9,0","7,9","8,2","8,1",United States,1.100.000 CR,Front,
+2011,Chevrolet,#4 Corvette Racing ZR1,R3,754,RWD,"7,6","7,8","8,8","7,9","7,6","7,9",United States,1.000.000 CR,Front,Meguiar’s Car Pack
+2010,Chevrolet,#55 Level 5 Motorsport Oreca FLM09,R1,910,RWD,"7,3","9,6","9,5","8,4","9,6","8,9",United States,2.000.000 CR,Mid,
+2010,Chevrolet,#89 Intersport Racing Oreca FLM09,R1,910,RWD,"7,3","9,6","9,5","8,4","9,6","8,9",United States,2.000.000 CR,Mid,
+2010,Chevrolet,#99 Green Earth Team Gunnar Oreca FLM09,R1,910,RWD,"7,3","9,6","9,5","8,4","9,6","8,9",United States,2.000.000 CR,Mid,
+1957,Chevrolet,Bel Air ,E,218,RWD,"4,3","3,5","5,5","3,0","3,5","3,9",United States,60.000 CR,Front,November Speed Pack
+2002,Chevrolet,Camaro 35th Anniversary SS,C,416,RWD,"6,3","4,8","6,7","6,4","4,6","5,8",United States,22.000 CR,Front,
+1990,Chevrolet,Camaro IROC-Z,D,341,RWD,"5,5","4,5","5,9","6,1","4,3","5,3",United States,9.000 CR,Front,
+2010,Chevrolet,Camaro SS,B,481,RWD,"6,8","5,0","7,4","7,0","4,9","6,2",United States,36.000 CR,Front,
+1969,Chevrolet,Camaro SS Coupe,D,307,RWD,"4,0","3,6","6,7","5,9","3,6","4,8",United States,45.000 CR,Front,Unicorn
+1969,Chevrolet,Camaro Z28,D,305,RWD,"4,4","3,6","6,8","5,7","3,5","4,8",United States,45.000 CR,Front,
+1970,Chevrolet,Camaro Z28,D,322,RWD,"4,3","3,6","6,9","6,0","3,5","4,8",United States,38.000 CR,Front,
+1979,Chevrolet,Camaro Z28,E,209,RWD,"3,1","4,2","5,3","5,7","4,1","4,5",United States,12.000 CR,Front,
+2012,Chevrolet,Camaro ZL1,A,572,RWD,"8,3","5,6","8,1","7,5","5,6","7,0",United States,45.000 CR,Front,August Playseat Car Pack
+1970,Chevrolet,Chevelle SS 454,D,315,RWD,"3,4","3,4","6,9","5,8","3,4","4,6",United States,48.000 CR,Front,
+1967,Chevrolet,Chevelle SS-396,D,329,RWD,"5,2","3,5","6,9","5,8","3,5","5,0",United States,60.000 CR,Front,December IGN Pack
+2010,Chevrolet,Cobalt SS Turbocharged,B,455,FWD,"5,9","4,7","6,9","6,3","4,7","5,7",United States,18.000 CR,Front,
+1969,Chevrolet,Corvair Monza,F,137,RWD,"3,0","4,0","4,2","4,5","4,2","4,0",United States,12.000 CR,Rear,March Pirelli Car Pack
+1953,Chevrolet,Corvette,F,168,RWD,"3,0","3,7","4,6","3,5","3,7","3,7",United States,"210,000 CR",Front,September Pennzoil Car Pack
+1960,Chevrolet,Corvette C1,D,277,RWD,"4,6","3,4","6,6","6,0","3,4","4,8",United States,80.000 CR,Front,
+1996,Chevrolet,Corvette Grand Sport,B,473,RWD,"7,1","5,3","6,9","6,4","5,1","6,2",United States,30.000 CR,Front,
+2010,Chevrolet,Corvette Grand Sport,A,561,RWD,"8,3","5,5","8,0","7,5","5,4","6,9",United States,55.000 CR,Front,
+1967,Chevrolet,Corvette Stingray 427,C,398,RWD,"5,0","3,9","7,3","6,3","3,9","5,3",United States,90.000 CR,Front,
+2002,Chevrolet,Corvette Z06,A,537,RWD,"7,8","5,5","7,7","6,9","5,3","6,6",United States,31.000 CR,Front,
+2006,Chevrolet,Corvette Z06,A,589,RWD,"8,9","5,6","8,3","7,6","5,4","7,2",United States,48.000 CR,Front,
+2009,Chevrolet,Corvette ZR1,S,633,RWD,"9,4","5,9","8,5","7,6","5,8","7,4",United States,100.000 CR,Front,
+1970,Chevrolet,Corvette ZR-1,C,362,RWD,"3,8","4,0","6,9","6,3","3,9","5,0",United States,85.000 CR,Front,
+1970,Chevrolet,El Camino SS 454,D,302,RWD,"5,8","3,0","6,9","5,7","3,0","4,9",United States,26.000 CR,Front,
+1996,Chevrolet,Impala SS,D,276,RWD,"5,6","4,5","5,2","5,0","4,3","4,9",United States,9.000 CR,Front,January Jalopnik Pack
+1964,Chevrolet,Impala SS 409,D,318,RWD,"5,0","3,8","6,7","5,3","3,8","4,9",United States,35.000 CR,Front,
+1966,Chevrolet,Nova SS,D,310,RWD,"4,7","3,6","6,8","5,8","3,6","4,9",United States,78.000 CR,Front,Muscle car pack
+1969,Chevrolet,Nova SS 396,D,322,RWD,"4,8","3,4","7,0","6,1","3,4","4,9",United States,55.000 CR,Front,March Pirelli Car Pack
+2011,Chevrolet,Spark,F,116,FWD,"3,0","4,1","3,5","3,7","4,0","3,7",United States,10.000 CR,Front,
+2011,Chevrolet,Volt,F,190,FWD,"3,9","4,2","4,1","3,8","4,1","4,0",United States,33.000 CR,Front,
+2012,Chrysler,300 SRT8,B,489,RWD,"7,7","4,7","7,4","6,8","4,7","6,3",United States,28.000 CR,Front,May TopGear Car Pack
+2008,Chrysler,300C SRT-8,B,461,RWD,"6,8","4,8","7,2","6,8","4,8","6,1",United States,25.000 CR,Front,
+2006,Chrysler,Crossfire SRT6,B,446,RWD,"6,3","4,9","6,9","6,9","4,8","6,0",United States,15.000 CR,Front,
+2004,Chrysler,PT Cruiser GT,E,247,FWD,"3,3","3,9","5,3","5,6","3,9","4,4",United States,8.000 CR,Front,
+2011,Citroën,C1,F,101,FWD,"3,0","4,2","3,3","3,8","4,2","3,7",France,10.000 CR,Front,
+2009,Citroën,C4 VTS,E,275,FWD,"3,9","4,3","5,2","5,7","4,1","4,6",France,22.000 CR,Front,
+2011,Citroën,DS3,D,291,FWD,"3,7","4,2","5,5","6,0","4,1","4,7",France,24.000 CR,Front,
+2011,Citroën,DS4,D,319,FWD,"4,7","4,7","5,2","5,7","4,5","5,0",France,"38,000 CR",Front,September Pennzoil Car Pack
+1971,De Tomaso,Pantera,C,399,RWD,"4,8","4,4","6,7","7,3","4,2","5,5",Italy,45.000 CR,Mid,
+1982,DeLorean,DMC-12,F,638,RWD,"3,3","4,7","4,1","4,2","4,5","4,2",United States,14.000 CR,Rear,
+2010,Devon,GTX,S,177,RWD,"9,2","6,1","8,5","7,7","5,9","7,5",United States,300.000 CR,Front,
+2008,Dodge,#11 Primetime Racing Viper Competition Coupe,R3,730,RWD,"6,9","7,7","8,7","8,1","7,6","7,8",United States,900.000 CR,Front,
+2003,Dodge,#126 Team Zakspeed Viper GTS-R,R2,811,RWD,"7,2","8,1","9,3","8,3","8,2","8,2",United States,1.100.000 CR,Front,
+2008,Dodge,#2 Mopar Dodge Viper Competition Coupe,R3,730,RWD,"6,9","7,7","8,7","8,1","7,6","7,8",United States,900.000 CR,Front,
+2000,Dodge,#91 Team Oreca Viper GTS-R,R2,823,RWD,"7,5","8,1","9,3","8,3","8,2","8,3",United States,1.100.000 CR,Front,
+1970,Dodge,Challenger R/T Hemi,C,352,RWD,"4,9","3,7","7,0","5,9","3,7","5,0",United States,120.000 CR,Front,
+2009,Dodge,Challenger SRT8,B,464,RWD,"6,9","4,8","7,4","6,7","4,8","6,1",United States,38.000 CR,Front,
+2012,Dodge,Challenger SRT8 392,B,498,RWD,"7,4","4,7","7,6","6,7","4,7","6,2",United States,40.000 CR,Front,2013 SRT Viper Bonus Pack
+1969,Dodge,Charger Daytona Hemi,C,366,RWD,"6,0","4,0","7,0","6,3","3,9","5,4",United States,350.000 CR,Front,
+1969,Dodge,Charger R/T,D,306,RWD,"4,3","3,7","6,7","6,3","3,7","4,9",United States,64.000 CR,Front,
+2006,Dodge,Charger SRT8,B,456,RWD,"6,9","4,8","7,1","6,8","4,8","6,1",United States,24.000 CR,Front,
+2012,Dodge,Charger SRT8,B,483,RWD,"7,8","4,7","7,3","6,8","4,7","6,3",United States,38.000 CR,Front,November Speed Pack
+1970,Dodge,Coronet Super Bee,D,377,RWD,"3,9","3,8","7,1","6,0","3,8","4,9",United States,250.000 CR,Front,Muscle Car Pack
+1967,Dodge,Coronet W023,C,377,RWD,"3,0","3,6","7,2","5,9","3,7","4,7",United States,180.000 CR,Front,Muscle Car Pack
+1968,Dodge,Dart HEMI Super Stock,C,396,RWD,"3,0","3,7","7,5","6,3","3,7","4,8",United States,350.000 CR,Front,Muscle Car Pack
+2010,Dodge,"Quinton ""Rampage"" Jackson Challenger SRT8 ",B,498,RWD,"7,2","5,2","7,5","6,8","5,1","6,4",United States,95.000 CR,Front,February ALMS Pack
+2006,Dodge,Ram SRT-10,C,380,RWD,"5,5","3,7","7,2","6,8","4,0","5,4",United States,24.000 CR,Front,
+1986,Dodge,Shelby Omni GLHS,D,309,FWD,"3,8","4,5","5,9","6,0","4,4","4,9",United States,5.000 CR,Front,January Jalopnik Pack
+2005,Dodge,SRT4 ACR,B,429,FWD,"5,1","4,6","6,8","6,4","4,6","5,5",United States,9.000 CR,Front,
+1996,Dodge,Stealth R/T Turbo,B,440,AWD,"6,2","4,9","6,1","6,7","4,7","5,7",United States,8.000 CR,Front,
+2003,Dodge,Viper Competition Coupe,R3,724,RWD,"6,8","7,6","8,7","8,1","7,5","7,7",United States,900.000 CR,Front,
+1999,Dodge,Viper GTS ACR,A,547,RWD,"7,7","5,6","7,8","7,5","5,5","6,8",United States,44.000 CR,Front,
+2003,Dodge,Viper SRT-10,A,580,RWD,"8,8","5,6","8,2","7,6","5,4","7,1",United States,42.000 CR,Front,
+2008,Dodge,Viper SRT-10 ACR,S,653,RWD,"7,5","6,9","8,4","7,4","6,9","7,4",United States,100.000 CR,Front,
+1998,Eagle,Talon TSi Turbo,C,392,AWD,"5,4","4,8","5,7","6,4","4,6","5,4",United States,6.000 CR,Front,
+1998,Ferrari,#12 Risi Competizione F333 SP,R1,978,RWD,"8,9","9,8","9,9","8,9","9,8","9,4",Italy,2.200.000 CR,Mid,
+1971,Ferrari,#2 Ferrari Automobili 312 P,R3,800,RWD,"7,0","8,0","9,9","9,3","8,0","8,4",Italy,1.600.000 CR,Mid,March Pirelli Car Pack
+2006,Ferrari,#62 Risi Competizione F430 GT2,R3,763,RWD,"6,9","7,6","9,1","8,2","7,6","7,9",Italy,1.000.000 CR,Mid,
+2011,Ferrari,#62 Risi Competizione F458 Italia,R3,763,RWD,"7,0","7,7","9,1","8,6","7,8","8,0",Italy,1.000.000 CR,Mid,November Speed Pack
+2010,Ferrari,#83 Risi Competizione/Krohn F430 GT2,R3,763,RWD,"6,9","7,6","9,1","8,2","7,6","7,9",Italy,1.000.000 CR,Mid,
+2010,Ferrari,#89 Hankook-Team Farnbacher F430 GT2,R3,763,RWD,"6,9","7,6","9,1","8,2","7,6","7,9",Italy,1.000.000 CR,Mid,
+2008,Ferrari,#90 Farnbacher Racing F430 GT2,R3,763,RWD,"6,9","7,6","9,1","8,2","7,6","7,9",Italy,1.000.000 CR,Mid,
+1957,Ferrari,250 California,D,302,RWD,"4,9","3,9","6,6","5,3","3,9","4,9",Italy,3.000.000 CR,Front,
+1964,Ferrari,250 GTO,B,440,RWD,"6,6","4,8","7,0","5,3","4,5","5,6",Italy,10.000.000 CR,Front,
+1957,Ferrari,250 Testa Rossa,C,361,RWD,"5,7","3,5","7,3","6,4","3,5","5,3",Italy,8.000.000 CR,Front,
+1967,Ferrari,330 P4,A,570,RWD,"7,9","4,9","8,8","8,1","4,8","6,9",Italy,9.000.000 CR,Mid,
+1999,Ferrari,360 Modena,A,550,RWD,"7,3","5,6","7,7","8,1","5,5","6,8",Italy,90.000 CR,Mid,
+1968,Ferrari,365 GTB/4 Daytona,C,415,RWD,"6,7","4,2","7,3","6,6","4,2","5,8",Italy,270.000 CR,Front,
+2007,Ferrari,430 Scuderia,S,648,RWD,"9,1","5,9","8,6","8,2","5,8","7,6",Italy,270.000 CR,Mid,Unicorn
+2011,Ferrari,458 Challenge,R3,730,RWD,"7,9","6,9","9,0","8,7","6,9","7,9",Italy,357.000 CR,Mid,Limited Collectors Edition Exclusive
+2010,Ferrari,458 Italia,S,645,RWD,"9,7","6,1","8,6","8,3","6,0","7,7",Italy,240.000 CR,Mid,
+1991,Ferrari,512 TR,B,499,RWD,"7,5","5,3","7,1","6,2","5,1","6,2",Italy,75.000 CR,Mid,
+2002,Ferrari,575M Maranello,A,532,RWD,"8,1","5,1","7,8","7,5","5,0","6,7",Italy,120.000 CR,Front,
+2006,Ferrari,599 GTB Fiorano,S,630,RWD,"9,5","5,7","8,6","7,9","5,7","7,5",Italy,310.000 CR,Front,
+2011,Ferrari,599 GTO,S,677,RWD,"8,9","6,1","8,9","8,0","6,2","7,6",Italy,370.000 CR,Front,
+2010,Ferrari,599XX,R3,773,RWD,"8,8","7,3","9,1","8,1","7,3","8,1",Italy,1.500.000 CR,Front,
+2004,Ferrari,612 Scaglietti,A,538,RWD,"8,5","5,1","7,7","7,7","5,1","6,8",Italy,130.000 CR,Front,
+2009,Ferrari,California,A,523,RWD,"8,3","5,2","7,3","7,6","5,1","6,7",Italy,220.000 CR,Front,
+2003,Ferrari,Challenge Stradale,A,588,RWD,"7,6","6,2","7,8","8,3","6,0","7,2",Italy,160.000 CR,Mid,Unicorn
+1969,Ferrari,Dino 246 GT,D,300,RWD,"4,6","4,4","6,0","5,1","4,3","4,9",Italy,55.000 CR,Mid,
+2002,Ferrari,Enzo Ferrari,S,700,RWD,"9,6","6,5","9,0","8,3","6,4","8,0",Italy,1.300.000 CR,Mid,
+1994,Ferrari,F355 Berlinetta,A,505,RWD,"7,5","5,3","7,4","7,1","5,1","6,5",Italy,58.000 CR,Mid,
+1995,Ferrari,F355 Challenge,A,548,RWD,"6,7","6,0","7,6","7,7","5,9","6,8",Italy,75.000 CR,Mid,
+1987,Ferrari,F40,S,614,RWD,"8,0","6,2","8,4","8,3","6,0","7,4",Italy,380.000 CR,Mid,
+1989,Ferrari,F40 Competizione,R2,835,RWD,"9,8","7,9","9,6","8,3","7,8","8,7",Italy,1.500.000 CR,Mid,
+2004,Ferrari,F430,A,598,RWD,"8,6","5,7","8,2","8,1","5,6","7,2",Italy,150.000 CR,Mid,
+1995,Ferrari,F50,S,617,RWD,"8,2","6,4","8,4","7,6","6,2","7,4",Italy,400.000 CR,Mid,
+1996,Ferrari,F50 GT,R2,875,RWD,"8,2","8,6","9,6","8,7","8,6","8,7",Italy,1.200.000 CR,Mid,
+2011,Ferrari,FF,S,638,AWD,"8,9","5,2","8,7","9,5","5,2","7,5",Italy,280.000 CR,Front,
+2005,Ferrari,FXX,R3,800,RWD,"8,0","7,8","9,4","8,5","7,8","8,3",Italy,2.500.000 CR,Mid,
+1984,Ferrari,GTO,A,534,RWD,"7,3","5,3","7,9","7,7","5,1","6,6",Italy,320.000 CR,Mid,
+2000,Fiat,Coupe 20V Turbo,C,411,FWD,"5,3","4,6","6,3","6,8","4,5","5,5",Italy,7.000 CR,Front,January Jalopnik Pack
+2010,Fiat,Punto EVO Sport,E,243,FWD,"3,2","4,1","5,0","5,4","4,0","4,3",Italy,20.000 CR,Front,
+2011,Ford,#05 Ford Racing Fusion Stock Car,R3,729,RWD,"9,2","7,2","8,6","7,6","7,1","7,9",United States,900.000 CR,Front,
+2011,Ford,#17 Dick Johnson Racing Team FG Falcon,R3,709,RWD,"7,2","7,2","8,5","7,2","7,2","7,5",United States,900.000 CR,Front,
+2011,Ford,#19 Mother Energy Racing Team FG Falcon,R3,709,RWD,"7,2","7,2","8,5","7,2","7,2","7,5",United States,900.000 CR,Front,
+2011,Ford,#4 IRWIN Racing FG Falcon,R3,709,RWD,"7,2","7,2","8,5","7,2","7,2","7,5",United States,900.000 CR,Front,
+2009,Ford,#40 Robertson Racing Ford GT Mk.7,R3,761,RWD,"7,0","7,7","8,6","7,3","7,7","7,7",United States,1.000.000 CR,Mid,
+2011,Ford,#5 Ford Performance Racing FG Falcon,R3,709,RWD,"7,2","7,2","8,5","7,2","7,2","7,5",United States,900.000 CR,Front,
+2011,Ford,#9 SP Tools Racing FG Falcon,R3,709,RWD,"7,2","7,2","8,5","7,2","7,2","7,5",United States,900.000 CR,Front,
+1966,Ford,Country Squire,E,207,RWD,"4,1","3,0","5,9","5,3","3,1","4,3",United States,12.000 CR,Front,March Pirelli Car Pack
+1940,Ford,De Luxe Coupe,F,100,RWD,"3,0","3,7","3,0","3,1","3,8","3,3",United States,36.000 CR,Front,Meguiar’s Car Pack
+1992,Ford,Escort RS Cosworth,C,371,AWD,"4,1","5,1","5,5","6,3","5,0","5,2",United States,24.000 CR,Front,
+1977,Ford,Escort RS1800,E,201,RWD,"3,0","4,1","5,4","6,1","4,1","4,5",United States,35.000 CR,Front,December IGN Pack
+2011,Ford,F-150 SVT Raptor,D,280,AWD,"4,5","3,4","5,2","5,8","3,6","4,5",United States,42.000 CR,Front,December IGN Pack
+1964,Ford,Fairlane Thunderbolt,C,427,RWD,"3,2","3,8","7,7","6,7","3,9","5,1",United States,200.000 CR,Front,Muscle Car Pack
+1973,Ford,Falcon GT XB,D,293,RWD,"4,6","3,7","6,5","5,8","3,7","4,9",United States,50.000 CR,Front,
+2009,Ford,Fiesta Zetec S,E,266,FWD,"3,2","4,6","5,3","5,6","4,5","4,6",United States,19.000 CR,Front,
+2009,Ford,Focus RS,B,468,FWD,"5,2","4,9","7,1","6,5","4,8","5,7",United States,38.000 CR,Front,
+2006,Ford,Focus ST,C,365,FWD,"4,9","4,4","6,0","6,3","4,3","5,2",United States,14.000 CR,Front,
+2013,Ford,Focus ST ,B,439,FWD,"5,2","4,9","6,5","6,4","4,8","5,6",United States,32.000 CR,Front,November Speed Pack
+2010,Ford,Fusion Sport,C,372,AWD,"5,7","4,6","5,6","6,1","4,4","5,3",United States,28.000 CR,Front,
+2005,Ford,GT,A,578,RWD,"8,9","5,6","8,1","6,9","5,5","7,0",United States,150.000 CR,Mid,
+1966,Ford,GT40 MK II,A,562,RWD,"7,2","5,1","8,0","6,2","5,1","6,3",United States,1.500.000 CR,Mid,
+2011,Ford,Ka,F,100,FWD,"3,0","4,4","3,0","3,2","4,4","3,6",United States,10.000 CR,Front,
+2013,Ford,Mustang Boss 302,A,519,RWD,"7,6","4,9","7,8","6,9","4,9","6,4",United States,42.000 CR,Front,August Playseat Car Pack
+1970,Ford,Mustang Boss 429,D,321,RWD,"4,7","3,8","6,8","5,8","3,7","5,0",United States,120.000 CR,Front,
+1995,Ford,Mustang Cobra R,C,412,RWD,"5,5","4,8","6,6","6,7","4,8","5,7",United States,27.000 CR,Front,February ALMS Pack
+2000,Ford,Mustang Cobra R,B,494,RWD,"7,1","5,2","7,4","6,7","5,1","6,3",United States,40.000 CR,Front,
+2005,Ford,Mustang GT,C,372,RWD,"5,7","4,4","6,5","6,6","4,3","5,5",United States,18.000 CR,Front,
+1965,Ford,Mustang GT Coupe,D,285,RWD,"4,2","3,4","6,8","6,1","3,4","4,8",United States,26.000 CR,Front,Launch Bonus Car Pack
+1978,Ford,Mustang King Cobra,F,174,RWD,"3,1","4,1","4,9","5,3","4,0","4,3",United States,5.000 CR,Front,
+1971,Ford,Mustang Mach 1,D,333,RWD,"3,7","3,7","6,8","5,7","3,6","4,7",United States,40.000 CR,Front,
+1973,Ford,Pinto,F,100,RWD,"3,0","4,0","3,6","4,0","4,1","3,7",United States,5.000 CR,Front,January Jalopnik Pack
+1985,Ford,RS200 Evolution,S,660,AWD,"4,8","5,8","9,0","9,0","5,8","6,9",United States,120.000 CR,Mid,
+2007,Ford,Shelby GT500,B,477,RWD,"7,0","4,8","7,3","6,6","4,7","6,1",United States,45.000 CR,Front,Unicorn
+2010,Ford,Shelby GT500,B,498,RWD,"7,9","4,9","7,4","6,6","4,8","6,3",United States,48.000 CR,Front,
+1987,Ford,Sierra RS500 Cosworth,C,388,RWD,"4,9","5,0","6,3","6,9","4,9","5,6",United States,52.000 CR,Front,
+1993,Ford,SVT Cobra R,D,295,RWD,"4,5","4,8","6,0","6,4","4,7","5,3",United States,12.000 CR,Front,
+2003,Ford,SVT Focus,D,346,FWD,"3,6","4,3","5,3","5,5","4,3","4,6",United States,7.000 CR,Front,
+2010,Ford,Taurus SHO,B,447,AWD,"6,6","4,6","6,4","7,0","4,5","5,8",United States,36.000 CR,Front,
+1957,Ford,Thunderbird,D,276,RWD,"4,0","3,5","6,2","5,2","3,5","4,5",United States,60.000 CR,Front,
+2011,Ford,Transit SuperSportVan,F,145,RWD,"3,0","3,5","4,1","4,3","3,5","3,7",United States,28.000 CR,Front,May TopGear Car Pack
+1991,GMC,Syclone,C,385,AWD,"4,6","3,7","6,2","7,2","3,8","5,1",United States,12.000 CR,Front,
+1992,GMC,Typhoon,C,376,AWD,"4,5","3,6","6,2","7,2","3,7","5,0",United States,12.000 CR,Front,November Speed Pack
+1983,GMC,Vandura G-1500,F,100,RWD,"3,0","3,0","3,0","3,0","3,1","3,0",United States,"5,000 CR",Front,September Pennzoil Car Pack
+2010,Gumpert,Apollo S,R3,749,RWD,"7,5","6,9","9,4","8,6","7,0","7,9",Germany,320.000 CR,Mid,
+2012,Hennessey,Venom GT,R3,782,RWD,"10,0","6,4","9,3","8,5","6,4","8,1",United States,900.000 CR,Mid,May TopGear Car Pack
+2011,Holden,#1 Toll Holden Racing Commodore VE,R3,709,RWD,"7,3","7,2","8,5","7,2","7,2","7,5",Australia,900.000 CR,Front,
+2011,Holden,#11 Pepsi Max Crew Commodore VE,R3,709,RWD,"7,3","7,2","8,5","7,2","7,2","7,5",Australia,900.000 CR,Front,
+2011,Holden,#33 Fujitsu Racing GRM Commodore VE,R3,709,RWD,"7,3","7,2","8,5","7,2","7,2","7,5",Australia,900.000 CR,Front,
+2011,Holden,#8 Team BOC Commodore VE,R3,709,RWD,"7,3","7,2","8,5","7,2","7,2","7,5",Australia,900.000 CR,Front,
+2011,Holden,#88 Team Vodafone Commodore VE,R3,709,RWD,"7,3","7,2","8,5","7,2","7,2","7,5",Australia,900.000 CR,Front,
+2011,Holden,HSV GTS ,B,460,RWD,"7,0","4,8","7,2","6,9","4,7","6,1",Australia,65.000 CR,Front,February ALMS Pack
+2009,Holden,HSV w427,A,504,RWD,"7,6","4,9","7,6","7,1","4,9","6,4",Australia,110.000 CR,Front,
+2005,Honda,#18 Takata Dome NSX,R2,859,RWD,"7,3","8,9","9,2","8,4","8,9","8,5",Japan,1.500.000 CR,Mid,
+2011,Honda,#33 Level 5 Motorsports Lola,R1,947,RWD,"8,5","9,7","9,6","8,5","9,6","9,2",Japan,2.000.000 CR,Mid,January Jalopnik Pack
+1994,Honda,Civic 1.5 VTi,E,260,FWD,"3,7","4,5","5,0","5,4","4,4","4,6",Japan,5.000 CR,Front,
+1999,Honda,Civic Si Coupe,D,279,FWD,"3,8","4,4","5,4","5,7","4,4","4,7",Japan,7.000 CR,Front,
+2006,Honda,Civic Si Coupe,C,371,FWD,"5,1","4,8","5,9","6,1","4,6","5,3",Japan,16.000 CR,Front,
+2012,Honda,Civic Si Coupe,C,383,FWD,"4,9","4,7","6,2","6,1","4,6","5,3",Japan,20.000 CR,Front,January Jalopnik Pack
+1997,Honda,Civic Type-R,C,390,FWD,"4,9","4,9","5,9","6,2","4,8","5,4",Japan,9.000 CR,Front,
+2004,Honda,Civic Type-R,C,377,FWD,"4,8","4,4","6,3","6,2","4,3","5,2",Japan,12.000 CR,Front,
+2007,Honda,Civic Type-R,C,390,FWD,"5,0","5,1","5,9","6,2","4,9","5,4",Japan,18.000 CR,Front,
+1995,Honda,CR-X Del Sol SiR,D,280,FWD,"3,7","4,2","5,6","5,9","4,1","4,7",Japan,5.000 CR,Front,
+1991,Honda,CR-X SiR,D,332,FWD,"5,1","4,0","5,8","6,1","3,8","5,0",Japan,5.000 CR,Front,
+2011,Honda,CR-Z EX,F,189,FWD,"3,0","4,6","4,3","4,6","4,4","4,2",Japan,21.000 CR,Front,Pre-order Exclusive
+2009,Honda,Fit Sport,E,212,FWD,"3,0","4,4","4,6","5,0","4,4","4,3",Japan,12.000 CR,Front,
+2000,Honda,Integra Type-R,C,393,FWD,"4,9","4,9","6,0","6,3","4,8","5,4",Japan,8.000 CR,Front,
+2002,Honda,Integra Type-R,C,391,FWD,"4,8","4,8","6,1","6,3","4,7","5,3",Japan,12.000 CR,Front,
+2004,Honda,Mugen Civic Type-R,C,412,FWD,"5,4","5,0","6,1","6,4","4,9","5,6",Japan,14.000 CR,Front,Unicorn
+2010,Honda,Mugen Civic Type-R 3D,B,446,FWD,"5,1","5,3","6,4","6,5","5,2","5,7",Japan,55.000 CR,Front,
+2002,Honda,Mugen Integra Type-R,B,435,FWD,"5,1","5,5","6,2","6,5","5,3","5,7",Japan,14.000 CR,Front,Unicorn
+1992,Honda,NSX-R,B,480,RWD,"6,5","5,2","7,2","7,5","5,1","6,3",Japan,90.000 CR,Mid,
+2005,Honda,NSX-R,A,515,RWD,"6,9","5,6","7,3","7,6","5,4","6,6",Japan,120.000 CR,Mid,
+2005,Honda,NSX-R GT,A,529,RWD,"6,5","5,9","7,4","7,7","5,8","6,7",Japan,900.000 CR,Mid,Unicorn
+2000,Honda,Prelude SiR,D,348,FWD,"4,8","4,8","5,5","5,9","4,6","5,1",Japan,6.000 CR,Front,
+2003,Honda,S2000,B,435,RWD,"6,0","5,1","6,6","6,6","5,0","5,9",Japan,14.000 CR,Front,
+1952,Hudson,Hornet,F,138,RWD,"3,0","3,6","4,4","5,0","3,8","3,9",United States,66.000 CR,Front,July Car Pack
+2006,Hummer,H1 Alpha,F,151,AWD,"3,0","3,8","3,4","3,5","4,0","3,5",United States,120.000 CR,Front,
+2011,Hyundai,#67 Rhys Millen Racing Veloster ,S,693,AWD,"4,3","6,0","8,9","9,9","6,0","7,0",Korea,350.000 CR,Front,Hyundai Veloster Bonus Pack
+2010,Hyundai,Forza Motorsport Genesis Coupe,R2,859,RWD,"6,8","9,2","9,2","8,2","9,2","8,5",Korea,1.500.000 CR,Front,
+2010,Hyundai,Genesis Coupe,C,411,RWD,"6,4","4,8","6,5","6,5","4,6","5,8",Korea,26.000 CR,Front,
+2013,Hyundai,Genesis Coupe 3.8 Track,B,454,RWD,"6,9","4,9","7,0","6,6","4,8","6,0",Korea,32.000 CR,Front,August Playseat Car Pack
+2011,Hyundai,ix20,F,114,FWD,"3,0","4,4","3,1","3,2","4,3","3,6",Korea,10.000 CR,Front,
+2010,Hyundai,Rhys Millen Racing Red Bull Genesis Coupe,S,670,RWD,"5,7","6,3","8,7","7,6","6,4","6,9",Korea,240.000 CR,Front,
+2003,Hyundai,Tuscani Elisa,D,289,FWD,"4,0","4,7","5,2","5,7","4,6","4,9",Korea,8.000 CR,Front,
+2013,Hyundai,Veloster Turbo,C,355,FWD,"4,5","4,8","5,7","6,0","4,6","5,1",Korea,22.000 CR,Front,Hyundai Veloster Bonus Pack
+2003,Infiniti,G35,C,421,RWD,"6,7","4,9","6,4","6,9","4,8","5,9",United States,16.000 CR,Front,
+2008,Infiniti,G37 Coupe Sport,B,442,RWD,"7,1","4,9","6,7","6,9","4,8","6,1",United States,32.000 CR,Front,
+2010,Jaguar,#33 RSR XKR GT,R3,752,RWD,"7,0","7,8","8,8","8,0","7,7","7,8",United Kingdom,1.000.000 CR,Front,
+1956,Jaguar,D-Type,C,410,RWD,"7,0","4,3","6,6","4,1","4,1","5,2",United Kingdom,3.000.000 CR,Front,
+1961,Jaguar,E-type S1,D,304,RWD,"4,3","4,1","5,6","6,3","4,1","4,9",United Kingdom,75.000 CR,Front,
+2010,Jaguar,XFR,A,501,RWD,"9,0","4,4","7,5","6,9","4,3","6,4",United Kingdom,80.000 CR,Front,
+1993,Jaguar,XJ220,S,618,RWD,"8,8","5,9","8,5","7,6","5,7","7,3",United Kingdom,180.000 CR,Mid,
+1954,Jaguar,XK120 SE,E,237,RWD,"3,8","3,8","5,5","6,1","3,9","4,6",United Kingdom,140.000 CR,Front,July Car Pack
+2009,Jaguar,XKR-S,A,524,RWD,"7,6","5,3","7,3","7,0","5,2","6,5",United Kingdom,100.000 CR,Front,
+2012,Jaguar,XKR-S,A,563,RWD,"8,8","5,2","8,0","7,2","5,2","6,9",United Kingdom,120.000 CR,Front,April Alpinestars Pack
+2009,Jeep,Grand Cherokee SRT8,C,413,AWD,"6,0","3,5","6,5","7,4","3,6","5,4",United States,36.000 CR,Front,
+2012,Jeep,Wrangler Rubicon,E,247,AWD,"3,3","3,3","5,1","5,4","3,6","4,1",United States,29.000 CR,Front,May TopGear Car Pack
+2010,Joss,JT1,R3,718,RWD,"8,1","6,6","9,2","8,3","6,3","7,7",Australia,400.000 CR,Mid,
+2011,Kia,Cee'd,F,168,FWD,"3,0","4,7","3,7","3,7","4,5","3,9",Korea,14.000 CR,Front,
+2010,Kia,Forte Koup SX,D,284,FWD,"4,3","4,6","5,1","5,6","4,4","4,8",Korea,18.000 CR,Front,
+2011,Koenigsegg,Agera,R3,744,RWD,"10,0","6,3","9,1","8,2","6,1","7,9",Sweden,1.400.000 CR,Mid,Launch Bonus Car Pack
+2002,Koenigsegg,CC8S,S,670,RWD,"10,0","6,2","8,7","7,8","6,0","7,7",Sweden,320.000 CR,Mid,
+2008,Koenigsegg,CCGT,R2,857,RWD,"8,8","8,2","9,4","8,4","8,1","8,6",Sweden,1.500.000 CR,Mid,
+2006,Koenigsegg,CCX,R3,712,RWD,"10,0","6,0","9,0","8,1","5,8","7,8",Sweden,550.000 CR,Mid,
+2011,Lamborghini,#08 West Yokohama Gallardo LP560-4,R3,759,RWD,"6,5","7,9","8,6","7,3","7,9","7,7",Italy,1.000.000 CR,Mid,January Jalopnik Pack
+2012,Lamborghini,Aventador LP700-4,R3,709,AWD,"10,0","6,0","8,9","9,7","6,0","8,1",Italy,400.000 CR,Mid,November Speed Pack
+1988,Lamborghini,Countach LP5000 QV,A,527,RWD,"7,8","5,4","7,7","6,8","5,2","6,6",Italy,150.000 CR,Mid,
+1999,Lamborghini,Diablo GT-R,S,700,RWD,"8,4","7,2","8,8","8,7","7,1","8,0",Italy,200.000 CR,Mid,
+1997,Lamborghini,Diablo SV,A,559,RWD,"8,4","5,5","7,8","7,1","5,4","6,8",Italy,100.000 CR,Mid,
+2005,Lamborghini,Gallardo,S,625,AWD,"8,3","5,9","7,7","7,0","5,8","6,9",Italy,110.000 CR,Mid,
+2011,Lamborghini,Gallardo LP570-4 Superleggera,R3,706,AWD,"8,8","6,0","8,8","9,5","5,9","7,8",Italy,275.000 CR,Mid,Limited Collectors Edition Exclusive
+2007,Lamborghini,Gallardo Superleggera,S,675,AWD,"8,2","6,0","8,3","9,2","6,0","7,6",Italy,210.000 CR,Mid,Unicorn
+2006,Lamborghini,Miura Concept,S,698,AWD,"9,9","5,8","8,8","9,2","5,8","7,9",Italy,420.000 CR,Mid,
+1967,Lamborghini,Miura P400,C,396,RWD,"5,8","4,4","7,2","6,2","4,3","5,6",Italy,400.000 CR,Mid,
+2005,Lamborghini,Murcielago,S,610,AWD,"9,3","5,5","7,8","6,8","5,4","7,0",Italy,180.000 CR,Mid,
+2007,Lamborghini,Murcielago LP640,S,657,AWD,"8,7","5,7","8,4","7,8","5,7","7,3",Italy,300.000 CR,Mid,Unicorn
+2010,Lamborghini,Murcielago LP670-4 SV,R3,707,AWD,"9,1","6,1","8,6","7,9","6,0","7,6",Italy,450.000 CR,Mid,
+2008,Lamborghini,Reventon,S,677,AWD,"9,0","5,8","8,4","7,8","5,7","7,3",Italy,2.100.000 CR,Mid,
+2011,Lamborghini,Sesto Elemento,R3,741,AWD,"8,8","6,5","9,2","10,0","6,3","8,2",Italy,2.500.000 CR,Mid,
+1982,Lancia,037 Stradale,C,362,RWD,"4,5","5,4","5,6","6,0","5,3","5,4",Italy,240.000 CR,Mid,
+1992,Lancia,Delta HF Integrale EVO,C,396,AWD,"3,9","4,4","6,3","7,2","4,4","5,2",Italy,22.000 CR,Front,
+1974,Lancia,Stratos HF Stradale,D,346,RWD,"4,3","4,6","6,5","7,3","4,6","5,5",Italy,50.000 CR,Mid,
+2008,Land Rover,Range Rover Supercharged,C,357,AWD,"5,2","3,5","5,9","6,6","3,8","5,0",United Kingdom,68.000 CR,Front,
+2010,Lexus,#1 Petronas Tom's SC430,R2,857,RWD,"7,1","9,1","9,1","8,1","9,1","8,5",United States,1.500.000 CR,Front,
+2008,Lexus,#25 Eclipse Advan SC430,R2,857,RWD,"7,1","9,1","9,1","8,1","9,1","8,5",United States,1.500.000 CR,Front,
+2008,Lexus,#6 Eneos SC430,R2,857,RWD,"7,1","9,1","9,1","8,1","9,1","8,5",United States,1.500.000 CR,Front,
+2011,Lexus,CT200h,F,195,FWD,"3,3","4,5","4,2","3,0","4,3","3,9",United States,25.000 CR,Front,
+2013,Lexus,GS350 F Sport,B,436,AWD,"7,0","4,3","6,2","6,8","4,2","5,7",United States,58.000 CR,Front,August Playseat Car Pack
+2003,Lexus,IS300,D,511,RWD,"5,5","4,7","5,7","6,3","4,6","5,4",United States,12.000 CR,Front,
+2006,Lexus,IS350,C,342,RWD,"6,4","4,8","6,2","6,7","4,6","5,7",United States,22.000 CR,Front,
+2009,Lexus,IS-F,A,397,RWD,"8,0","5,0","7,3","7,0","4,9","6,4",United States,51.000 CR,Front,
+2010,Lexus,LF-A,S,613,RWD,"8,3","5,8","8,3","7,8","5,8","7,2",United States,350.000 CR,Front,
+1997,Lexus,SC300,D,308,RWD,"5,2","4,7","5,2","5,6","4,6","5,1",United States,9.000 CR,Front,Launch Bonus Car Pack
+2002,Lexus,SC430,C,373,RWD,"6,1","4,7","6,1","6,5","4,6","5,6",United States,18.000 CR,Front,
+1962,Lincoln,Continental,E,214,RWD,"4,5","3,6","5,4","4,6","3,7","4,4",United States,55.000 CR,Front,August Playseat Car Pack
+2009,Lotus,2-Eleven,A,590,RWD,"4,8","6,8","8,4","8,6","6,9","7,1",United Kingdom,70.000 CR,Mid,
+1990,Lotus,Carlton,B,458,RWD,"7,1","4,6","7,3","6,7","4,5","6,0",United Kingdom,19.000 CR,Front,
+1966,Lotus,Cortina,F,149,RWD,"3,0","4,1","4,8","5,2","4,2","4,3",United Kingdom,32.000 CR,Front,May TopGear Car Pack
+1971,Lotus,Elan Sprint,E,206,RWD,"3,2","4,4","5,3","5,6","4,3","4,6",United Kingdom,30.000 CR,Front,
+1956,Lotus,Eleven,E,217,RWD,"3,7","3,9","6,0","5,6","3,8","4,6",United Kingdom,140.000 CR,Front,July Car Pack
+2005,Lotus,Elise 111S,B,435,RWD,"4,1","5,7","6,5","7,3","5,7","5,8",United Kingdom,21.000 CR,Mid,
+1999,Lotus,Elise Sport,B,492,RWD,"4,6","5,7","7,5","8,1","5,8","6,3",United Kingdom,28.000 CR,Mid,
+1980,Lotus,Esprit Turbo,D,304,RWD,"4,7","4,7","5,6","5,8","4,5","5,0",United Kingdom,46.000 CR,Mid,
+2002,Lotus,Esprit V8,A,511,RWD,"6,9","5,3","7,4","7,9","5,1","6,5",United Kingdom,44.000 CR,Mid,
+2009,Lotus,Evora,B,493,RWD,"6,3","5,4","6,9","7,9","5,3","6,3",United Kingdom,90.000 CR,Mid,
+2009,Lotus,Evora Type 124 Endurance Racecar,S,694,RWD,"7,3","7,4","8,2","7,7","7,3","7,6",United Kingdom,350.000 CR,Mid,
+2006,Lotus,Exige Cup 240,A,510,RWD,"5,1","6,0","7,4","8,2","5,9","6,5",United Kingdom,32.000 CR,Mid,
+2005,Maserati,#15 JMB Racing MC12,R2,824,RWD,"7,2","8,3","9,4","8,7","8,4","8,4",Italy,1.100.000 CR,Mid,
+1957,Maserati,300 S,C,420,RWD,"6,6","3,8","6,9","4,5","3,6","5,1",Italy,1.000.000 CR,Front,December IGN Pack
+1997,Maserati,Ghibli Cup,B,443,RWD,"7,0","4,8","6,9","6,8","4,6","6,0",Italy,21.000 CR,Front,Meguiar’s Car Pack
+2006,Maserati,GranSport,B,477,RWD,"7,0","5,0","6,9","7,2","4,9","6,2",Italy,50.000 CR,Front,
+2010,Maserati,GranTurismo MC GT4,S,674,RWD,"7,6","6,9","8,2","7,9","6,8","7,5",Italy,220.000 CR,Front,December IGN Pack
+2010,Maserati,GranTurismo S,B,481,RWD,"7,7","4,9","6,8","7,3","4,8","6,3",Italy,120.000 CR,Front,
+2004,Maserati,MC12,S,682,RWD,"8,6","6,8","8,7","8,5","6,8","7,9",Italy,1.000.000 CR,Mid,
+2011,Maserati,Quattroporte Sport GT S,B,479,RWD,"6,7","4,8","7,2","7,3","4,9","6,2",Italy,130.000 CR,Front,April Alpinestars Pack
+2011,Mazda,2,E,202,FWD,"3,0","4,8","4,5","4,8","4,7","4,4",Japan,14.000 CR,Front,
+2009,Mazda,#16 Dyson Racing B09/86,R1,958,RWD,"8,1","9,8","9,7","8,3","9,7","9,1",Japan,2.000.000 CR,Mid,
+2010,Mazda,#16 Dyson Racing B09/86,R1,958,RWD,"8,1","9,8","9,7","8,2","9,7","9,1",Japan,2.000.000 CR,Mid,
+1991,Mazda,#55 Team Mazdaspeed 787B  ,R1,980,RWD,"9,4","9,9","9,8","8,6","9,9","9,5",Japan,2.200.000 CR,Mid,February ALMS Pack
+2005,Mazda,Axela Sport 23S,E,240,FWD,"3,7","4,3","4,6","5,1","4,2","4,4",Japan,12.000 CR,Front,
+2008,Mazda,Furai,R2,865,RWD,"6,4","9,2","9,3","8,4","9,1","8,5",Japan,1.000.000 CR,Mid,
+2009,Mazda,Mazdaspeed 3,C,415,FWD,"5,2","4,8","6,4","6,3","4,7","5,5",Japan,17.000 CR,Front,
+2010,Mazda,Mazdaspeed 3,C,417,FWD,"5,4","4,8","6,4","6,4","4,7","5,5",Japan,22.000 CR,Front,
+2001,Mazda,Mazdaspeed Familia,D,283,FWD,"4,4","4,3","5,0","5,4","4,2","4,7",Japan,6.000 CR,Front,
+2001,Mazda,Mazdaspeed Roadster,D,334,RWD,"3,9","5,3","5,5","5,9","5,2","5,2",Japan,13.000 CR,Front,
+1994,Mazda,MX-5 Miata,E,226,RWD,"3,1","4,9","4,9","5,2","4,8","4,6",Japan,7.000 CR,Front,
+2007,Mazda,MX-5 Roadster Coupe,D,309,RWD,"3,9","5,0","5,4","5,9","4,9","5,0",Japan,15.000 CR,Front,
+2010,Mazda,MX-5 Superlight,D,323,RWD,"3,8","5,3","5,3","5,8","5,2","5,1",Japan,28.000 CR,Front,
+1997,Mazda,RX-7,B,441,RWD,"7,1","4,9","6,7","7,1","4,7","6,1",Japan,18.000 CR,Front,
+1985,Mazda,RX-7 GSL-SE,E,201,RWD,"3,7","4,3","5,0","5,6","4,2","4,6",Japan,6.000 CR,Front,April Alpinestars Pack
+2002,Mazda,RX-7 Spirit R Type-A,B,388,RWD,"7,1","5,3","7,1","7,5","5,1","6,4",Japan,26.000 CR,Front,Unicorn
+2004,Mazda,RX-8 Mazdaspeed,C,354,RWD,"5,5","5,2","5,9","6,4","5,1","5,6",Japan,20.000 CR,Front,
+2011,Mazda,RX-8 R3,C,411,RWD,"5,5","5,2","6,2","6,9","5,1","5,7",Japan,27.000 CR,Front,December IGN Pack
+1990,Mazda,Savanna RX-7,C,497,RWD,"5,7","4,8","5,8","6,5","4,6","5,5",Japan,7.000 CR,Front,
+1998,McLaren,#18 Gulf Team Davidoff F1 GTR,R2,848,RWD,"7,1","8,5","9,5","8,6","8,6","8,5",United Kingdom,1.500.000 CR,Mid,
+1997,McLaren,#43 Team BMW Motorsport F1 GTR,R2,848,RWD,"7,1","8,5","9,5","8,6","8,6","8,5",United Kingdom,1.500.000 CR,Mid,
+2011,McLaren,59 GT MP4-12C GT3,R3,744,RWD,"6,9","7,6","8,8","8,2","7,6","7,8",United Kingdom,1.000.000 CR,Mid,July Car Pack
+1993,McLaren,F1,S,663,RWD,"10,0","6,0","9,0","8,3","5,8","7,8",United Kingdom,3.000.000 CR,Mid,
+1997,McLaren,F1 GT,R3,703,RWD,"10,0","6,5","9,2","8,5","6,3","8,1",United Kingdom,4.000.000 CR,Mid,
+2011,McLaren,MP4-12C,S,664,RWD,"9,2","5,9","8,9","8,0","5,8","7,6",United Kingdom,220.000 CR,Mid,
+2011,Mercedes-Benz,#35 Black Falcon SLS AMG GT3,R3,724,RWD,"6,4","7,5","8,7","7,7","7,4","7,5",Germany,1.000.000 CR,Front,April Alpinestars Pack
+1989,Mercedes-Benz,#63 Team Sauber-Mercedes C 9,R1,986,RWD,"10,0","9,8","9,9","8,6","9,6","9,6",Germany,2.200.000 CR,Mid,August Playseat Car Pack
+1990,Mercedes-Benz,190E 2.5-16 Evolution II,C,377,RWD,"5,0","5,3","5,9","6,4","5,3","5,6",Germany,26.000 CR,Front,
+1972,Mercedes-Benz,300 SEL 6.3,D,285,RWD,"5,5","3,9","5,7","6,1","3,9","5,0",Germany,32.000 CR,Front,April Alpinestars Pack
+1955,Mercedes-Benz,300 SLR,B,465,RWD,"7,3","4,5","7,8","7,0","4,3","6,2",Germany,"9,000,000 CR",Front,September Pennzoil Car Pack
+1954,Mercedes-Benz,300SL Gullwing Coupe,E,259,RWD,"3,5","4,1","5,5","5,9","4,0","4,6",Germany,380.000 CR,Front,
+2009,Mercedes-Benz,A200 Turbo Coupe,D,280,FWD,"4,2","3,7","5,7","5,9","3,6","4,6",Germany,25.000 CR,Front,
+1998,Mercedes-Benz,AMG Mercedes CLK GTR,R3,726,RWD,"9,4","6,7","8,9","8,3","6,6","8,0",Germany,1.200.000 CR,Mid,
+2004,Mercedes-Benz,C32 AMG,C,400,RWD,"7,2","4,5","6,5","6,7","4,4","5,9",Germany,16.000 CR,Front,
+2010,Mercedes-Benz,C63 AMG,A,507,RWD,"8,2","4,8","7,7","7,0","4,8","6,5",Germany,60.000 CR,Front,
+2012,Mercedes-Benz,C63 AMG Black Series,A,579,RWD,"8,1","5,7","8,1","7,3","5,7","7,0",Germany,195.000 CR,Front,Meguiar’s Car Pack
+2010,Mercedes-Benz,CL 65 AMG,A,522,RWD,"9,8","4,6","7,7","6,9","4,7","6,7",Germany,200.000 CR,Front,
+2003,Mercedes-Benz,CLK55 AMG Coupe,B,462,RWD,"7,9","4,7","7,0","7,1","4,6","6,3",Germany,20.000 CR,Front,
+2010,Mercedes-Benz,E 63 AMG,A,517,RWD,"9,0","4,9","7,6","7,1","4,9","6,7",Germany,100.000 CR,Front,
+2008,Mercedes-Benz,Mercedes-AMG C-Class Touring Car,R2,834,RWD,"6,9","8,7","9,1","7,9","8,8","8,3",Germany,1.200.000 CR,Front,
+2009,Mercedes-Benz,ML 63 AMG,B,444,AWD,"6,6","3,6","7,0","7,8","3,8","5,8",Germany,80.000 CR,Front,
+2009,Mercedes-Benz,SL 65 AMG Black Series,A,556,RWD,"8,6","5,4","8,0","7,3","5,2","6,9",Germany,280.000 CR,Front,
+2010,Mercedes-Benz,SLK 55 AMG,A,507,RWD,"7,6","5,0","7,6","7,3","4,9","6,5",Germany,58.000 CR,Front,
+2012,Mercedes-Benz,SLK55 AMG,A,508,RWD,"8,4","4,9","7,7","7,3","4,7","6,6",Germany,70.000 CR,Front,July Car Pack
+2005,Mercedes-Benz,SLR,S,616,RWD,"9,5","5,7","8,5","7,5","5,7","7,4",Germany,300.000 CR,Front,
+2009,Mercedes-Benz,SLR Stirling Moss,S,636,RWD,"9,6","5,8","8,5","7,5","5,7","7,4",Germany,1.000.000 CR,Front,
+2011,Mercedes-Benz,SLS AMG,S,609,RWD,"9,1","5,6","8,6","7,9","5,6","7,4",Germany,250.000 CR,Front,
+1970,Mercury,Cougar Eliminator,D,343,RWD,"3,0","3,9","6,9","5,7","3,8","4,7",United States,48.000 CR,Front,
+1958,MG,MGA Twin-Cam,F,122,RWD,"3,0","3,8","4,0","4,5","3,8","3,8",United Kingdom,35.000 CR,Front,Meguiar’s Car Pack
+1966,MG,MGB GT,F,123,RWD,"3,0","3,8","4,0","4,4","3,8","3,8",United Kingdom,"18,000 CR",Front,September Pennzoil Car Pack
+2009,MINI,John Cooper Works,C,389,FWD,"4,7","4,2","6,4","6,4","4,2","5,2",Germany,27.000 CR,Front,
+2003,MINI,Cooper S,D,381,FWD,"4,1","4,6","5,4","5,7","4,5","4,9",Germany,12.000 CR,Front,
+2011,MINI,John Cooper Works Clubman ,C,315,FWD,"4,8","4,2","6,2","6,2","4,2","5,1",Germany,30.000 CR,Front,Pre-order Exclusive
+2010,Mitsubishi,Colt Ralliart,D,307,FWD,"3,1","4,5","5,7","6,0","4,5","4,8",Japan,22.000 CR,Front,
+1995,Mitsubishi,Eclipse GSX,C,358,AWD,"5,5","4,7","5,4","6,0","4,5","5,2",Japan,6.000 CR,Front,
+2006,Mitsubishi,Eclipse GT,C,352,FWD,"5,0","4,7","5,9","6,0","4,5","5,2",Japan,11.000 CR,Front,
+2003,Mitsubishi,Eclipse GTS,E,249,FWD,"4,3","4,4","4,9","5,1","4,3","4,6",Japan,7.000 CR,Front,
+1998,Mitsubishi,FTO GP Version R,D,350,FWD,"4,9","4,7","5,6","6,1","4,5","5,2",Japan,6.000 CR,Front,
+1992,Mitsubishi,Galant VR-4,C,383,AWD,"4,9","4,6","5,9","6,6","4,5","5,3",Japan,6.000 CR,Front,May TopGear Car Pack
+1997,Mitsubishi,GTO,B,446,AWD,"6,2","4,9","6,1","7,0","4,7","5,8",Japan,8.000 CR,Front,
+2006,Mitsubishi,HKS Time Attack Evolution CT230R ,R3,457,AWD,"6,2","6,4","9,5","10,0","6,4","7,7",Japan,350.000 CR,Front,Unicorn
+2006,Mitsubishi,Lancer Evolution IX MR,B,711,AWD,"5,6","5,2","6,7","7,6","5,2","6,1",Japan,21.000 CR,Front,
+1999,Mitsubishi,Lancer Evolution VI GSR,B,480,AWD,"5,1","5,1","6,6","7,5","5,0","5,9",Japan,12.000 CR,Front,
+2004,Mitsubishi,Lancer Evolution VIII MR,B,488,AWD,"5,6","5,4","6,7","7,6","5,3","6,1",Japan,20.000 CR,Front,
+2008,Mitsubishi,Lancer Evolution X GSR,B,476,AWD,"5,3","5,1","6,6","7,6","5,1","5,9",Japan,29.000 CR,Front,
+1988,Mitsubishi,Starion ESI-R,D,277,RWD,"4,2","4,8","5,2","5,8","4,7","4,9",Japan,5.000 CR,Front,
+2010,Morgan,Aero Supersports,A,520,RWD,"7,1","5,0","7,9","7,2","4,9","6,4",United Kingdom,160.000 CR,Front,
+2010,Mosler,MT900S,R3,727,RWD,"8,5","7,2","9,0","8,6","7,1","8,1",United States,320.000 CR,Mid,
+2010,Nissan,#12 Calsonic Impul GT-R,R2,859,RWD,"7,4","9,1","9,1","8,0","9,1","8,5",Japan,1.500.000 CR,Front,
+2003,Nissan,#12 Calsonic Skyline,R2,858,RWD,"7,2","9,0","9,1","7,8","9,0","8,4",Japan,1.500.000 CR,Front,
+2008,Nissan,#23 Xanavi Nismo GT-R,R2,859,RWD,"7,4","9,1","9,1","8,0","9,1","8,5",Japan,1.500.000 CR,Front,
+2008,Nissan,#24 Woodone Advan Clarion GT-R,R2,859,RWD,"7,4","9,1","9,1","8,0","9,1","8,5",Japan,1.500.000 CR,Front,
+2003,Nissan,#3 Hasemisport Endless Z,R3,736,RWD,"6,3","8,3","8,4","7,8","8,3","7,8",Japan,900.000 CR,Front,
+2008,Nissan,#3 YellowHat YMS Tomica GT-R,R2,859,RWD,"7,4","9,1","9,1","8,0","9,1","8,5",Japan,1.500.000 CR,Front,
+1998,Nissan,#32 Nissan R390 GT1,R2,859,RWD,"7,7","8,5","9,3","8,3","8,5","8,5",Japan,1.500.000 CR,Mid,
+2005,Nissan,#46 Dream Cube's ADVAN Z,R3,736,RWD,"6,3","8,3","8,4","7,8","8,3","7,8",Japan,900.000 CR,Front,
+1994,Nissan,240SX SE,E,235,RWD,"4,1","4,7","4,8","5,2","4,5","4,7",Japan,7.000 CR,Front,
+2010,Nissan,370Z,A,501,RWD,"7,1","5,4","7,1","7,4","5,3","6,5",Japan,34.000 CR,Front,
+1970,Nissan,Datsun 510,F,108,RWD,"3,0","4,1","3,9","4,4","4,2","3,9",Japan,8.000 CR,Front,
+2003,Nissan,Fairlady Z,B,434,RWD,"6,8","4,9","6,6","6,9","4,8","6,0",Japan,14.000 CR,Front,
+1969,Nissan,Fairlady Z 432,E,205,RWD,"3,0","4,4","5,3","5,7","4,4","4,6",Japan,12.000 CR,Front,
+1994,Nissan,Fairlady Z Version S Twin Turbo,C,479,RWD,"5,8","4,9","6,1","6,5","4,7","5,6",Japan,7.000 CR,Front,
+2010,Nissan,GT-R SpecV,S,663,AWD,"9,1","5,6","8,3","9,7","5,5","7,6",Japan,150.000 CR,Front,
+2011,Nissan,Leaf,F,125,FWD,"3,0","4,3","3,3","3,5","4,2","3,7",Japan,30.000 CR,Front,
+2011,Nissan,Micra,F,121,FWD,"3,0","4,5","3,2","3,4","4,4","3,7",Japan,10.000 CR,Front,
+1993,Nissan,MINE'S R32 Skyline GT-R,S,674,AWD,"8,9","5,7","9,0","9,8","5,6","7,8",Japan,240.000 CR,Front,Unicorn
+2002,Nissan,MINE'S R34 Skyline GT-R,S,691,AWD,"9,0","6,0","9,0","9,2","5,9","7,8",Japan,280.000 CR,Front,Unicorn
+1998,Nissan,R390,R3,706,RWD,"8,1","6,1","8,6","7,6","5,9","7,3",Japan,1.200.000 CR,Mid,
+2007,Nissan,Sentra SE-R Spec V,D,336,FWD,"4,6","4,3","5,9","6,2","4,2","5,0",Japan,11.000 CR,Front,
+1992,Nissan,Silvia CLUB K's,D,319,RWD,"4,9","4,6","5,8","6,3","4,4","5,2",Japan,6.000 CR,Front,
+1994,Nissan,Silvia K's,D,326,RWD,"4,5","4,7","5,8","6,3","4,5","5,2",Japan,6.000 CR,Front,
+2000,Nissan,Silvia Spec-R,C,404,RWD,"5,7","4,9","6,4","7,1","4,7","5,7",Japan,16.000 CR,Front,
+1971,Nissan,Skyline 2000GT-R,E,213,RWD,"3,5","4,0","5,5","5,8","4,0","4,5",Japan,28.000 CR,Front,
+2003,Nissan,Skyline Coupe 350GT,C,418,RWD,"6,6","4,9","6,4","6,8","4,8","5,9",Japan,12.000 CR,Front,
+1993,Nissan,Skyline GT-R V-Spec,B,477,AWD,"5,5","5,0","6,6","7,0","5,0","5,8",Japan,13.000 CR,Front,
+1997,Nissan,Skyline GT-R V-Spec,B,484,AWD,"5,8","5,3","6,5","6,9","5,3","5,9",Japan,18.000 CR,Front,
+2002,Nissan,Skyline GT-R V-Spec II,A,503,AWD,"6,1","5,3","6,8","7,4","5,2","6,2",Japan,52.000 CR,Front,
+2000,Nissan,Top Secret Silvia D1-Spec S15 ,S,642,RWD,"4,9","5,8","8,6","7,6","5,8","6,5",Japan,240.000 CR,Front,Unicorn
+2009,Nissan,Versa SL,E,209,FWD,"3,2","4,3","4,8","4,9","4,2","4,3",Japan,11.000 CR,Front,
+2010,Noble,M600,R3,722,RWD,"10,0","6,6","9,3","8,6","6,5","8,2",United Kingdom,320.000 CR,Mid,Limited Collectors Edition Exclusive
+1969,Oldsmobile,Hurst/Olds 442,D,314,RWD,"3,9","3,5","6,6","5,9","3,5","4,7",United States,40.000 CR,Front,
+2003,Opel,#5 OPC Team Phoenix Astra V8 Coupe,R2,829,RWD,"6,9","8,7","9,2","8,0","8,8","8,3",Germany,1.200.000 CR,Front,
+2004,Opel,Speedster Turbo,B,443,RWD,"4,8","5,2","6,9","7,9","5,2","6,0",Germany,35.000 CR,Mid,
+2003,Pagani,#17 Carsport America Zonda GR,R2,825,RWD,"7,2","8,3","9,2","8,3","8,3","8,3",Italy,1.100.000 CR,Mid,
+2012,Pagani,Huayra,R3,713,RWD,"10,0","6,2","9,0","8,1","6,1","7,9",Italy,1.800.000 CR,Mid,January Jalopnik Pack
+1999,Pagani,Zonda C12,S,626,RWD,"7,3","6,4","8,4","8,1","6,3","7,3",Italy,500.000 CR,Mid,
+2009,Pagani,Zonda Cinque Roadster,R3,725,RWD,"8,6","7,0","8,9","8,0","6,9","7,9",Italy,1.500.000 CR,Mid,
+2010,Pagani,Zonda R,R2,872,RWD,"10,0","8,3","9,4","8,4","8,2","8,9",Italy,1.700.000 CR,Mid,
+2011,Panoz,#050 Panoz Racing Abruzzi ,R3,759,RWD,"6,6","7,7","9,0","8,2","7,8","7,9",United States,1.000.000 CR,Front,February ALMS Pack
+2003,Panoz,#11 JML Team Panoz LMP-01,R1,967,RWD,"8,8","9,8","9,7","8,5","9,8","9,3",United States,2.200.000 CR,Front,
+2005,Panoz,#51 Esperante GTLM,R3,752,RWD,"7,3","7,9","8,7","8,0","7,8","7,9",United States,1.000.000 CR,Front,
+2005,Panoz,Esperante GTLM,A,527,RWD,"8,9","5,1","7,8","7,0","4,9","6,7",United States,80.000 CR,Front,
+2011,Peugeot,107,F,102,FWD,"3,0","4,3","3,3","3,7","4,3","3,7",France,10.000 CR,Front,
+2011,Peugeot,#10 Matmut-Oreca 908 HDi FAP,R1,998,RWD,"9,3","9,8","10,0","8,9","9,8","9,6",France,2.500.000 CR,Mid,
+1993,Peugeot,#3 Peugeot Talbot Sport 905 EVO 1C,R1,973,RWD,"8,7","9,9","9,7","8,5","9,9","9,3",France,2.200.000 CR,Mid,
+2009,Peugeot,#9 Peugeot Sport Total 908 HDi FAP,R1,998,RWD,"9,3","9,8","10,0","8,9","9,8","9,6",France,2.500.000 CR,Mid,
+1984,Peugeot,205 T16,C,361,AWD,"3,9","4,8","5,7","5,6","4,8","5,0",France,120.000 CR,Mid,August Playseat Car Pack
+2004,Peugeot,206 RC,C,353,FWD,"4,1","4,1","6,3","6,5","4,0","5,0",France,14.000 CR,Front,
+2007,Peugeot,207 RC,D,332,FWD,"4,2","4,8","5,4","6,0","4,7","5,0",France,16.000 CR,Front,
+2007,Peugeot,207 Super 2000,A,569,AWD,"4,7","6,1","7,4","6,7","6,1","6,2",France,150.000 CR,Front,
+2011,Peugeot,308 GTi,D,300,FWD,"4,5","4,3","5,3","5,8","4,1","4,8",France,32.000 CR,Front,
+2010,Peugeot,RCZ,C,370,FWD,"4,8","5,0","5,7","5,9","4,8","5,2",France,34.000 CR,Front,
+1968,Plymouth,Barracuda Formula-S,D,283,RWD,"4,7","3,5","6,7","6,0","3,5","4,9",United States,35.000 CR,Front,
+1971,Plymouth,Cuda 426 Hemi,C,371,RWD,"5,3","3,9","7,0","6,1","3,8","5,2",United States,120.000 CR,Front,
+1971,Plymouth,GTX 426 Hemi,D,338,RWD,"5,2","3,5","7,1","6,2","3,5","5,1",United States,125.000 CR,Front,Muscle Car Pack
+1988,Pontiac,Fiero GT,E,233,RWD,"3,4","4,8","4,9","5,5","4,7","4,6",United States,5.000 CR,Mid,December IGN Pack
+1968,Pontiac,Firebird,D,312,RWD,"3,8","3,6","6,8","6,0","3,6","4,8",United States,36.000 CR,Front,Muscle Car Pack
+1969,Pontiac,Firebird Trans Am,D,317,RWD,"4,2","3,7","6,8","6,0","3,6","4,8",United States,45.000 CR,Front,
+1977,Pontiac,Firebird Trans Am,E,222,RWD,"4,2","4,0","5,2","5,1","3,9","4,5",United States,22.000 CR,Front,
+1987,Pontiac,Firebird Trans Am GTA,D,288,RWD,"5,0","4,5","5,3","5,8","4,3","5,0",United States,7.000 CR,Front,
+2002,Pontiac,Firebird Trans Am Ram Air,C,399,RWD,"6,1","4,6","6,8","6,3","4,5","5,7",United States,16.000 CR,Front,
+1973,Pontiac,Firebird Trans Am SD-455,D,305,RWD,"5,1","3,7","6,6","5,8","3,6","5,0",United States,24.000 CR,Front,
+2009,Pontiac,G8 GXP,B,464,RWD,"6,6","4,8","7,4","7,0","4,9","6,1",United States,38.000 CR,Front,
+1965,Pontiac,GTO,D,297,RWD,"4,8","3,6","6,7","5,8","3,6","4,9",United States,44.000 CR,Front,Muscle Car Pack
+2006,Pontiac,GTO,B,440,RWD,"7,6","4,7","7,1","6,8","4,5","6,2",United States,17.000 CR,Front,
+1969,Pontiac,GTO Judge,D,311,RWD,"3,8","3,7","6,8","6,0","3,6","4,8",United States,44.000 CR,Front,
+2009,Pontiac,Solstice GXP,B,431,RWD,"4,7","4,9","6,8","7,1","4,9","5,7",United States,18.000 CR,Front,
+1987,Porsche,959,S,620,AWD,"8,3","5,2","8,3","9,5","5,2","7,3",Germany,400.000 CR,Rear,Porsche Expansion Pack
+2011,Porsche,#045 Flying Lizard 911 GT3-RSR,R3,760,RWD,"6,6","7,7","9,2","8,9","7,7","8,0",Germany,1.100.000 CR,Rear,Porsche Expansion Pack
+2008,Porsche,#16 Dyson Racing RS Spyder Evo,R1,953,RWD,"7,7","9,9","9,6","8,5","9,9","9,1",Germany,2.000.000 CR,Mid,Porsche Expansion Pack
+1987,Porsche,#17 Racing Porsche AG 962c,R1,902,RWD,"10,0","8,3","9,7","8,9","8,1","9,0",Germany,2.000.000 CR,Mid,Porsche Expansion Pack
+2011,Porsche,#17 Team Falken 911 GT3-RSR,R3,760,RWD,"6,6","7,7","9,2","8,9","7,7","8,0",Germany,1.100.000 CR,Rear,Porsche Expansion Pack
+2008,Porsche,#2 Gruppe Orange Racing 911 GT3 Cup,R3,725,RWD,"7,1","7,4","8,8","8,6","7,3","7,8",Germany,900.000 CR,Rear,Porsche Expansion Pack
+2011,Porsche,#23 Alex Job Racing 911 GT3 Cup,R3,733,RWD,"6,9","7,3","8,9","8,7","7,2","7,8",Germany,900.000 CR,Rear,Porsche Expansion Pack
+1998,Porsche,#26 Porsche AG 911 GT1-98,R2,857,RWD,"7,9","8,4","9,2","8,1","8,4","8,4",Germany,1.500.000 CR,Mid,Porsche Expansion Pack
+2005,Porsche,#31 Petersen-White Lightning 911 GT3-RSR,R3,744,RWD,"6,4","7,6","9,0","8,7","7,7","7,9",Germany,1.100.000 CR,Rear,Porsche Expansion Pack
+2011,Porsche,#54 Black Swan Racing 911 GT3 Cup,R3,733,RWD,"6,9","7,3","8,9","8,7","7,2","7,8",Germany,900.000 CR,Rear,Porsche Expansion Pack
+2005,Porsche,#66 AXA Racing 911 GT3 Cup,R3,702,RWD,"7,3","7,3","8,6","8,6","7,3","7,8",Germany,900.000 CR,Rear,Porsche Expansion Pack
+2008,Porsche,#7 Penske Racing RS Spyder Evo,R1,953,RWD,"7,7","9,9","9,6","8,5","9,9","9,1",Germany,2.000.000 CR,Mid,Porsche Expansion Pack
+2007,Porsche,#80 Flying Lizard 911 GT3-RSR,R3,756,RWD,"6,9","7,6","9,1","8,6","7,6","8,0",Germany,1.100.000 CR,Rear,Porsche Expansion Pack
+1955,Porsche,550 Spyder,F,198,RWD,"3,9","4,1","4,9","5,4","3,9","4,5",Germany,600.000 CR,Mid,Porsche Expansion Pack
+1973,Porsche,911 Carrera RS,C,403,RWD,"5,0","4,4","7,0","7,7","4,4","5,7",Germany,200.000 CR,Rear,Porsche Expansion Pack
+1995,Porsche,911 GT2,A,583,RWD,"7,3","5,7","8,0","8,6","5,7","7,0",Germany,340.000 CR,Rear,Porsche Expansion Pack
+2012,Porsche,911 GT2 RS,S,667,RWD,"9,5","6,1","8,9","8,9","6,0","7,9",Germany,240.000 CR,Rear,Porsche Expansion Pack
+2004,Porsche,911 GT3,A,565,RWD,"7,9","5,6","7,8","8,6","5,6","7,1",Germany,65.000 CR,Rear,Porsche Expansion Pack
+2007,Porsche,911 GT3,A,589,RWD,"8,3","5,8","8,0","8,4","5,8","7,3",Germany,80.000 CR,Rear,Porsche Expansion Pack
+2007,Porsche,911 GT3 RS,A,592,RWD,"7,3","6,0","8,0","8,4","6,1","7,2",Germany,130.000 CR,Rear,Porsche Expansion Pack
+2010,Porsche,911 Sport Classic,A,560,RWD,"8,1","5,5","7,9","8,6","5,5","7,1",Germany,240.000 CR,Rear,Porsche Expansion Pack
+2007,Porsche,911 Turbo,S,639,AWD,"8,7","5,6","8,1","9,6","5,6","7,5",Germany,100.000 CR,Rear,Porsche Expansion Pack
+1982,Porsche,911 Turbo 3.3,B,449,RWD,"5,8","4,7","7,1","7,2","4,7","5,9",Germany,38.000 CR,Rear,Porsche Expansion Pack
+1970,Porsche,914/6,F,186,RWD,"3,0","4,3","4,9","5,4","4,2","4,4",Germany,24.000 CR,Mid,Porsche Expansion Pack
+1989,Porsche,944 Turbo,C,405,RWD,"5,7","4,8","6,4","7,0","4,7","5,7",Germany,12.000 CR,Front,Porsche Expansion Pack
+2010,Porsche,Boxster S,A,506,RWD,"7,0","5,2","7,4","7,8","5,1","6,5",Germany,46.000 CR,Mid,Porsche Expansion Pack
+2003,Porsche,Carrera GT,S,672,RWD,"8,7","6,2","8,9","8,3","6,2","7,7",Germany,400.000 CR,Mid,Porsche Expansion Pack
+2012,Porsche,Cayenne Turbo,A,534,AWD,"6,7","4,4","7,3","8,7","4,7","6,4",Germany,110.000 CR,Front,Porsche Expansion Pack
+2012,Porsche,Cayman R,A,520,RWD,"7,1","5,3","7,5","7,9","5,2","6,6",Germany,66.000 CR,Mid,Porsche Expansion Pack
+2010,Porsche,Panamera Turbo,A,560,AWD,"8,4","4,9","7,6","8,8","4,8","6,9",Germany,130.000 CR,Front,Porsche Expansion Pack
+2011,Radical,SR8 RX,R2,869,RWD,"6,7","8,7","9,8","8,8","8,7","8,5",United Kingdom,300.000 CR,Mid,
+1980,Renault,5 Turbo,D,284,RWD,"3,3","4,2","6,0","6,9","4,2","4,9",France,38.000 CR,Mid,
+2010,Renault,Clio RS,C,394,FWD,"4,4","4,9","6,3","6,3","4,9","5,4",France,26.000 CR,Front,March Pirelli Car Pack
+2007,Renault,Clio RS 197,C,393,FWD,"4,4","5,0","6,2","6,6","5,0","5,4",France,20.000 CR,Front,
+2003,Renault,Clio V6,C,427,RWD,"5,0","4,9","6,2","6,7","4,9","5,5",France,17.000 CR,Mid,
+2010,Renault,Megane RS 250,B,394,FWD,"5,1","4,9","6,4","6,6","4,8","5,6",France,29.000 CR,Front,
+2009,Renault,Twingo Sport Cup,D,284,FWD,"3,4","4,7","5,3","5,8","4,6","4,8",France,16.000 CR,Front,
+2010,Rossion,Q1,S,621,RWD,"8,6","6,3","8,4","8,2","6,2","7,5",United States,120.000 CR,Mid,
+1987,RUF,CTR Yellowbird,S,643,RWD,"9,3","5,3","9,3","8,7","5,4","7,6",Germany,280.000 CR,Rear,Meguiar’s Car Pack
+1995,RUF,CTR2,S,614,RWD,"9,9","5,5","8,6","8,8","5,5","7,6",Germany,260.000 CR,Rear,July Car Pack
+2011,RUF,RGT-8,S,636,RWD,"9,1","6,0","8,7","8,4","5,9","7,6",Germany,320.000 CR,Rear,Launch Bonus Car Pack
+2011,RUF,Rt 12 R,R3,757,AWD,"10,0","6,3","9,6","10,0","6,3","8,4",Germany,440.000 CR,Rear,Limited Collectors Edition Exclusive
+2011,RUF,Rt 12 S,S,666,RWD,"9,9","5,8","9,2","8,7","5,8","7,9",Germany,270.000 CR,Rear,
+2002,Saab,9-3 Aero,D,321,FWD,"4,9","4,5","5,5","5,6","4,4","5,0",Sweden,10.000 CR,Front,
+2008,Saab,9-3 Turbo X,C,366,AWD,"5,4","4,6","5,4","6,1","4,5","5,2",Sweden,28.000 CR,Front,
+1978,Saab,99 Turbo,F,192,FWD,"3,1","4,1","4,7","5,1","4,0","4,2",Sweden,5.000 CR,Front,
+2003,Saleen,#2 Konrad Motorsport S7R,R2,836,RWD,"7,2","8,3","9,5","8,7","8,4","8,4",United States,1.500.000 CR,Mid,
+2000,Saleen,S281,B,447,RWD,"6,2","4,9","6,9","6,7","4,7","5,9",United States,20.000 CR,Front,
+2006,Saleen,S281 E,A,513,RWD,"7,3","4,9","7,7","7,0","4,9","6,4",United States,38.000 CR,Front,
+2008,Saleen,S331 Supercab,D,304,RWD,"5,1","3,8","5,8","5,4","4,0","4,8",United States,40.000 CR,Front,
+2010,Saleen,S5S Raptor,S,623,RWD,"7,5","5,8","8,7","7,9","5,8","7,2",United States,180.000 CR,Mid,
+2004,Saleen,S7,R3,715,RWD,"10,0","6,5","9,1","8,6","6,3","8,1",United States,320.000 CR,Mid,
+2006,Saturn,ION Red Line,C,392,FWD,"5,2","4,7","6,0","5,9","4,5","5,3",United States,9.000 CR,Front,
+2007,Saturn,Sky Red Line,C,409,RWD,"4,8","4,9","6,5","6,8","4,9","5,6",United States,17.000 CR,Front,
+2013,Scion,FR-S,C,394,RWD,"5,6","5,1","6,1","6,6","4,9","5,7",United States,24.000 CR,Front,August Playseat Car Pack
+2005,Scion,tC,E,271,FWD,"3,8","4,1","5,3","5,6","4,0","4,6",United States,10.000 CR,Front,
+2012,Scion,tC,D,302,FWD,"4,2","4,2","5,6","5,9","4,1","4,8",United States,16.000 CR,Front,April Alpinestars Pack
+2009,Scion,xD,E,223,FWD,"3,2","4,6","4,4","4,7","4,5","4,3",United States,11.000 CR,Front,
+2009,SEAT,Ibiza Cupra,D,342,FWD,"4,0","4,8","5,6","6,1","4,7","5,0",Spain,17.000 CR,Front,
+2007,SEAT,Leon Cupra,C,421,FWD,"5,1","4,8","6,4","6,4","4,7","5,5",Spain,19.000 CR,Front,
+2003,SEAT,Leon Cupra R,C,401,FWD,"4,9","5,0","6,0","6,2","4,9","5,4",Spain,10.000 CR,Front,
+2010,SEAT,Leon Cupra R,B,439,FWD,"5,5","4,9","6,6","6,5","4,7","5,6",Spain,24.000 CR,Front,
+2007,SEAT,Leon Supercup,A,536,FWD,"3,6","6,7","7,0","7,1","6,8","6,3",Spain,150.000 CR,Front,
+1965,Shelby,Cobra 427 S/C,A,503,RWD,"5,7","4,6","8,1","7,0","4,5","5,9",United States,1.500.000 CR,Front,
+1965,Shelby,Cobra Daytona Coupe,A,512,RWD,"7,3","5,0","7,7","6,1","4,7","6,2",United States,5.000.000 CR,Front,
+1969,Shelby,GT500 428CJ,D,304,RWD,"5,1","3,6","6,9","6,0","3,5","5,0",United States,110.000 CR,Front,Muscle Car Pack
+1968,Shelby,GT-500KR,D,320,RWD,"3,0","3,6","6,9","5,8","3,6","4,6",United States,80.000 CR,Front,Muscle Car Pack
+1999,Shelby,Series 1,A,501,RWD,"5,8","5,5","7,4","6,2","5,4","6,1",United States,130.000 CR,Front,
+2010,Smart,ForTwo,F,101,RWD,"3,0","4,3","3,2","3,5","4,3","3,6",Germany,12.000 CR,Rear,May TopGear Car Pack
+2010,Spada Vetture,Codatronca TS,S,654,RWD,"9,6","6,0","8,6","7,7","5,9","7,6",Italy,400.000 CR,Front,
+2012,Spyker,Aileron,A,541,RWD,"7,6","5,5","7,4","8,1","5,3","6,8",Netherlands,250.000 CR,Mid,July Car Pack
+2010,Spyker,C8 Laviolette LM85,A,552,RWD,"7,6","5,5","7,7","8,0","5,4","6,8",Netherlands,250.000 CR,Mid,
+2010,SSC,Ultimate Aero,R3,756,RWD,"10,0","6,1","9,2","8,4","6,0","7,9",United States,1.000.000 CR,Mid,
+2003,Subaru,#77 Cusco Advan Impreza,R3,737,RWD,"6,7","8,3","8,2","8,1","8,2","7,9",Japan,900.000 CR,Front,
+1998,Subaru,Impreza 22b STi,B,475,AWD,"5,2","5,4","6,6","7,5","5,3","6,0",Japan,35.000 CR,Front,
+2006,Subaru,Impreza S204,A,508,AWD,"5,9","5,5","6,8","7,8","5,4","6,3",Japan,52.000 CR,Front,Unicorn
+2004,Subaru,Impreza WRX STi,B,489,AWD,"5,7","5,4","6,7","7,7","5,4","6,2",Japan,15.000 CR,Front,
+2005,Subaru,Impreza WRX STi,B,498,AWD,"6,0","5,5","6,8","7,8","5,4","6,3",Japan,18.000 CR,Front,
+2008,Subaru,Impreza WRX STi,B,484,AWD,"5,3","5,1","6,7","7,8","5,1","6,0",Japan,25.000 CR,Front,
+2011,Subaru,Impreza WRX STi,B,441,AWD,"6,0","5,1","6,5","7,4","5,1","6,0",Japan,32.000 CR,Front,Pre-order Exclusive
+2005,Subaru,Legacy B4 2.0GT,B,462,AWD,"6,2","4,7","6,1","7,0","4,6","5,7",Japan,16.000 CR,Front,
+2010,Subaru,Legacy B4 2.5GT,B,481,AWD,"6,4","4,8","6,3","7,3","4,7","5,9",Japan,29.000 CR,Front,
+1990,Subaru,Legacy RS,D,346,AWD,"4,5","4,7","5,5","6,0","4,6","5,1",Japan,6.000 CR,Front,May TopGear Car Pack
+2002,Suzuki,Liana GLX,F,136,FWD,"3,0","4,2","3,7","3,9","4,2","3,8",Japan,5.000 CR,Front,
+2011,Suzuki,SX4,R1,878,AWD,"5,2","7,4","10,0","10,0","7,5","8,0",Japan,1.000.000 CR,Mid,December IGN Pack
+2011,Suzuki,SX4 Sportback,E,209,FWD,"3,0","4,5","4,8","5,2","4,5","4,4",Japan,14.000 CR,Front,
+2011,Tesla,Roadster Sport,A,505,RWD,"4,0","5,6","7,0","6,4","5,5","5,7",United States,128.000 CR,Mid,Launch Bonus Car Pack
+1999,Toyota,#3 Toyota Motorsports GT-ONE TS-020,R1,959,RWD,"8,9","9,6","9,6","8,4","9,6","9,2",Japan,2.200.000 CR,Mid,
+2005,Toyota,#6 Exxon Superflo Supra,R2,855,RWD,"7,1","9,1","9,1","8,0","9,1","8,5",Japan,1.500.000 CR,Front,
+1969,Toyota,2000GT,F,191,RWD,"3,9","4,1","4,6","5,0","4,0","4,3",Japan,80.000 CR,Front,
+2004,Toyota,Altezza RS200,D,349,RWD,"5,4","4,8","5,6","6,0","4,7","5,3",Japan,10.000 CR,Front,
+2011,Toyota,Aygo,F,100,FWD,"3,0","4,3","3,1","3,4","4,3","3,6",Japan,10.000 CR,Front,
+1992,Toyota,Celica GT-Four RC ST185,D,331,AWD,"5,0","4,6","5,4","5,4","4,4","5,0",Japan,7.000 CR,Front,Meguiar’s Car Pack
+1994,Toyota,Celica GT-Four ST205,C,380,AWD,"5,4","4,7","5,6","6,3","4,5","5,3",Japan,9.000 CR,Front,
+2003,Toyota,Celica SS-I,C,379,FWD,"5,2","4,8","5,9","6,2","4,6","5,4",Japan,8.000 CR,Front,
+1984,Toyota,Celica Supra,E,251,RWD,"3,7","4,8","4,9","5,4","4,7","4,7",Japan,6.000 CR,Front,
+1995,Toyota,MR2 GT,C,385,RWD,"5,7","4,6","6,4","7,2","4,4","5,7",Japan,7.000 CR,Mid,
+1989,Toyota,MR2 SC,E,272,RWD,"4,2","4,6","5,3","6,0","4,5","4,9",Japan,6.000 CR,Mid,
+2002,Toyota,MR-S,D,293,RWD,"3,7","5,0","5,4","5,9","4,9","5,0",Japan,8.000 CR,Mid,
+2011,Toyota,Prius,F,197,FWD,"3,7","4,5","4,2","3,0","4,3","3,9",Japan,24.000 CR,Front,
+2002,Toyota,Soarer 430SCV,C,375,RWD,"6,2","4,7","6,1","6,5","4,6","5,6",Japan,18.000 CR,Front,
+1985,Toyota,Sprinter Trueno GT Apex,D,277,RWD,"3,5","4,4","5,9","6,4","4,4","4,9",Japan,6.000 CR,Front,
+1992,Toyota,Supra 2.0 GT Twin Turbo,D,290,RWD,"5,4","4,8","5,1","5,5","4,7","5,1",Japan,6.000 CR,Front,
+1998,Toyota,Supra Mk.4 RZ,B,461,RWD,"6,8","5,1","6,8","7,1","4,9","6,1",Japan,28.000 CR,Front,
+1998,Toyota,Top Secret 0-300 Supra,S,700,RWD,"9,6","5,9","8,5","7,4","5,7","7,4",Japan,300.000 CR,Front,Unicorn
+2008,Toyota,Yaris S,E,255,FWD,"3,4","4,6","4,8","5,3","4,5","4,5",Japan,10.000 CR,Front,
+1962,Triumph,TR3B,F,121,RWD,"3,0","3,8","3,9","4,2","3,7","3,7",United Kingdom,24.000 CR,Front,August Playseat Car Pack
+1998,TVR,Cerbera Speed 12,R3,758,RWD,"10,0","6,7","8,9","8,0","6,4","8,0",United Kingdom,1.000.000 CR,Front,
+2005,TVR,Sagaris,A,566,RWD,"7,2","5,6","8,1","7,1","5,4","6,7",United Kingdom,56.000 CR,Front,
+2001,TVR,Tuscan S,A,544,RWD,"7,2","5,4","7,9","7,4","5,3","6,6",United Kingdom,30.000 CR,Front,
+2012,Ultima,GTR,R3,768,RWD,"10,0","7,0","9,5","8,6","6,8","8,4",United Kingdom,110.000 CR,Mid,March Pirelli Car Pack
+2011,Vauxhall,Agila,F,121,FWD,"3,0","4,3","3,4","3,6","4,3","3,7",United Kingdom,10.000 CR,Front,
+2006,Vauxhall,Astra VXR,C,402,FWD,"5,2","4,7","6,2","6,1","4,7","5,4",United Kingdom,15.000 CR,Front,
+2009,Vauxhall,Corsa VXR,D,350,FWD,"3,9","4,6","6,1","6,0","4,5","5,0",United Kingdom,24.000 CR,Front,
+2010,Vauxhall,Insignia VXR,B,457,AWD,"6,7","4,7","6,3","7,2","4,6","5,9",United Kingdom,42.000 CR,Front,
+2005,Vauxhall,Monaro VXR,B,432,RWD,"7,0","4,8","6,8","6,2","4,6","5,9",United Kingdom,23.000 CR,Front,
+2004,Vauxhall,VX220 Turbo,B,442,RWD,"4,7","5,2","6,8","7,9","5,2","6,0",United Kingdom,20.000 CR,Mid,
+2013,Viper,#91 SRT Motorsport GTS-R,R3,751,RWD,"6,7","7,9","8,8","7,9","7,8","7,8",United States,"1,000,000 CR",Front,September Pennzoil Car Pack
+2013,Viper,#93 SRT Motorsport GTS-R,R3,751,RWD,"6,7","7,9","8,8","7,9","7,8","7,8",United States,"1,000,000 CR",Front,September Pennzoil Car Pack
+2013,Viper,GTS,S,638,RWD,"9,0","6,1","8,6","7,9","6,0","7,5",United States,95.000 CR,Front,2013 SRT Viper Bonus Pack
+1963,Volkswagen,Beetle,F,100,RWD,"3,0","4,1","3,0","3,0","4,2","3,5",Germany,15.000 CR,Rear,Meguiar’s Car Pack
+2004,Volkswagen,Beetle,E,250,FWD,"3,4","4,2","5,1","5,5","4,1","4,5",Germany,7.000 CR,Front,
+2003,Volkswagen,Bora VR6,D,327,AWD,"4,9","4,3","5,5","6,1","4,2","5,0",Germany,9.000 CR,Front,
+1995,Volkswagen,Corrado VR6,D,321,FWD,"4,8","4,2","5,4","5,8","4,0","4,9",Germany,6.000 CR,Front,
+2011,Volkswagen,Fox,F,101,FWD,"3,0","4,2","3,1","3,3","4,1","3,5",Germany,10.000 CR,Front,
+2006,Volkswagen,Golf GTI,C,379,FWD,"4,6","5,0","5,8","6,2","4,9","5,3",Germany,16.000 CR,Front,
+1992,Volkswagen,Golf GTi 16v Mk2,E,243,FWD,"3,2","4,6","4,8","5,2","4,5","4,5",Germany,6.000 CR,Front,
+2010,Volkswagen,Golf GTI Mk6,C,387,FWD,"5,0","4,9","5,9","6,2","4,8","5,4",Germany,26.000 CR,Front,
+2010,Volkswagen,Golf R,B,466,AWD,"5,6","4,9","6,5","7,4","4,8","5,9",Germany,42.000 CR,Front,
+2003,Volkswagen,Golf R32,B,430,AWD,"5,2","4,8","6,4","7,2","4,7","5,6",Germany,18.000 CR,Front,
+1998,Volkswagen,GTI VR6 Mk3,D,301,FWD,"4,2","4,6","5,3","5,8","4,4","4,8",Germany,6.000 CR,Front,
+1967,Volkswagen,Karmann Ghia,F,100,RWD,"3,0","3,9","3,0","3,0","4,0","3,4",Germany,"12,000 CR",Rear,September Pennzoil Car Pack
+2011,Volkswagen,Polo GTI ,C,359,FWD,"4,6","4,7","5,8","6,1","4,5","5,1",Germany,24.000 CR,Front,February ALMS Pack
+1984,Volkswagen,Rabbit GTI,F,182,FWD,"3,0","3,9","4,8","5,5","3,9","4,2",Germany,5.000 CR,Front,
+2009,Volkswagen,Scirocco GT,C,382,FWD,"4,5","5,0","5,9","6,3","4,8","5,3",Germany,32.000 CR,Front,
+2011,Volkswagen,Scirocco R,B,458,FWD,"5,6","4,9","6,8","6,6","4,8","5,8",Germany,45.000 CR,Front,November Speed Pack
+1981,Volkswagen,Scirroco S,F,102,FWD,"3,0","3,4","3,8","4,2","3,3","3,5",Germany,5.000 CR,Front,
+2008,Volkswagen,Touareg R50,C,373,AWD,"5,2","3,8","5,9","6,9","4,0","5,1",Germany,65.000 CR,Front,December IGN Pack
+1983,Volvo,242 Turbo Evolution,D,297,RWD,"4,5","3,9","6,2","6,2","3,9","5,0",Sweden,5.000 CR,Front,
+1997,Volvo,850 R,D,330,FWD,"5,1","4,2","5,8","5,6","4,1","4,9",Sweden,6.000 CR,Front,April Alpinestars Pack
+2009,Volvo,C30 R-Design,C,373,FWD,"5,4","4,4","5,8","6,3","4,2","5,2",Sweden,24.000 CR,Front,
+2011,Volvo,S60 R-Design,B,442,AWD,"6,6","4,8","6,4","7,3","4,7","5,9",Sweden,32.000 CR,Front,
+2004,Volvo,S60R,B,459,AWD,"6,1","4,8","6,2","7,0","4,6","5,7",Sweden,14.000 CR,Front,
+2010,Wiesmann,GT MF5,S,618,RWD,"8,8","5,8","8,4","7,6","5,6","7,2",Germany,220.000 CR,Front,
+2011,Wiesmann,GT MF5,S,633,RWD,"6,7","5,7","8,5","7,7","5,6","6,9",Germany,260.000 CR,Front,March Pirelli Car Pack

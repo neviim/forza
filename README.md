@@ -1,2 +1,2 @@
-# forza
-Coloca a lista de carros dor forza6 no mongodb
+# gt6db
+Passa a base de dados em csv do GT6 para o banco mongodb.
